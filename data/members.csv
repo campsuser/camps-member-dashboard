@@ -1,281 +1,260 @@
-member_id,member_name,category,industry,membership_type,website,renewal,renewal_month,primary_contact,job_title,email,phone,address,city,zip,county,region,size_band,contact_count,dba_names,opted_out,bounced,has_website
-311f555ed916,Access Laser Company (dba) Auroma Technologies Company,MANUFACTURERS,Manufacturing,Health Trust,https://www.accesslaser.com/,JUNE,June,Chris Fulton,CFO,cfulton@accesslaser.com,425.582.8674,"2211 W Casino Road, Suite A",Everett,98204,Snohomish,Puget Sound,Small,2,,False,False,True
-5654a6add809,"Advanced Powder Coating NW, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://apcnw.net/,OCTOBER,October,Tracie Chambers,Owner,ccf4867@yahoo.com,360.398.1460,3910 Spur Ridge Lane,Bellingham,98226,Whatcom,Northwest WA,Solo,0,,False,False,True
-77db395423f1,"AeroGo, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.aerogo.com/,OCTOBER,October,Roman Scott,VP,scott.r@aerogo.com,206.658.3121,1170 Andover Park W,Tukwila,98188,King,Puget Sound,Mid,3,,False,False,True
-cf9cee0dac39,AirMark Corporation,MANUFACTURERS,Manufacturing,Health Trust,https://www.airmark.com/,OCTOBER,October,Greg Wentz,President,gregw@airmark.com,800.527.7778,10001 Lake City Way NE,Seattle,98125,King,Puget Sound,Small,2,,False,False,True
-be380f7dbf51,Alliance Manufacturing Group Techni-Grip (dba),MANUFACTURERS,Manufacturing,Health Trust,https://www.technigrip.com/,12/20/2018,December,Jake Matthaei,President,jakem@technicaltooling.com,253.224.5909,1118 East D Street,Tacoma,98421,Pierce,South Sound,Solo,0,E-bed Systems (dba); Technical Tooling (dba),False,False,True
-5f653b6d4bf9,Alliance Packaging,MANUFACTURERS,Manufacturing,Unknown,https://www.alliancepackaging.net/,2/28/2018,February,Scott Younger,CFO,sdyounger@alliancepackaging.net,425.291.3500,100 SW 43rd,Renton,98057,King,Puget Sound,Small,2,,False,False,True
-2e978044e415,AM Manufacturing,MANUFACTURERS,Manufacturing,Health Trust,https://www.ammfg.com/,12/9/2025,December,Melissa Harjo,Owner,melissa@ammanufacturinginc.com,360.367.7097,2283 Cole Street,Enumclaw,98022,King,Puget Sound,Small,1,,False,False,True
-5311e9c17d97,America Medic & Science (dba) AMS,MANUFACTURERS,Manufacturing,Health Trust,https://americamedic.com/,5/24/2022,May,Sakshi Jagga,HR  Coordinator,sakshis@americamedic.com,425.558.5811,8321 219th St. SE,Woodinville,98072,King,Puget Sound,Small,2,,False,False,True
-f083a118da7b,American Structures & Design,MANUFACTURERS,Manufacturing,Unknown,https://www.americanstructures.com/,,,Mark Weissenbuehler,President,mark@asandd.com,253.833.4343 x102,1801 132nd Ave. E. Suite 100,Sumner,98390,Pierce,South Sound,Small,2,,True,False,True
-75c904c1e821,American Rifle Company,MANUFACTURERS,Manufacturing,Health Trust,https://www.americanrifle.com/,12/7/2023,December,Theodore Karagias,President,tedk@americanrifle.com,206.226.4387,"11527 Cyrus Way, Ste. 3",Mukilteo,98275,Snohomish,Puget Sound,Solo,0,,False,False,True
-7d84e0c872b1,American West Industries,MANUFACTURERS,Manufacturing,Health Trust,https://awestindustries.com/,8/16/2023,August,Seasun Standerfer,Office Manager/Bookkeeper,sstanderfer@awestindustries.com,509.535.5040,3528 E Desmet Ave.,Spokane,99202,Spokane,Central/Eastern WA,Small,1,,True,False,True
-c47ad360d3c9,"Analog Coffee (dba) Exploration Team, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://analogcoffee.com/,7/22/2025,July,Danny Hanlon,"Owner, Member",mail@analogcoffee.com,206.661.4794,235 Summit Ave. East,Seattle,98102,King,Puget Sound,Small,1,,False,True,True
-187944fc6602,Anchorhead Coffee (dba) Anchorhead Coffee Espresso,MANUFACTURERS,Manufacturing,Health Trust,https://anchorheadcoffee.com/,1/12/2025,January,Jake Paulson,Owner,jake@anchorheadcoffee.com,206.963.6237,"1600 7th Ave., Ste. 105",Seattle,98101,King,Puget Sound,Small,1,,True,False,True
-20874b90ed73,Aptly (dba) Aptly Technology Corp.,MANUFACTURERS,Manufacturing,Health Trust,https://www.aptlytech.com/,2/1/2022,February,Yuki Yang,Operations Director,yuki.y@aptlytech.com,425.628.5638,"12951 Bel-Red Road, Suite 160-170",Bellevue,98005,King,Puget Sound,Small,1,,True,True,True
-2b78aa148fd1,"Aquarian Audio, Aquarian Scientific (dba) AFAB Enterprises, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://www.aquarianaudio.com/,12/1/2023,December,Robb Nichols,General Manager,robb@aquarianaudio.com,360.299.0372,5677 Patricia Lane,Anacortes,98221,Skagit,Northwest WA,Solo,0,,True,False,True
-dc03780d0e91,Atomic Screen Printing,MANUFACTURERS,Manufacturing,Unknown,http://atomicshirtfactory.nett,May,May,Greg Walden,President,atomicembroidery@gmail.com,509.585.2866,329 West Columbia Dr,Kennewick,99336,Benton,Central/Eastern WA,Solo,0,,False,False,True
-8a9ca7bcc0f3,A&W Bottling / Unique Beverage,MANUFACTURERS,Manufacturing,Health Trust,,10/1/2018,October,Mike Broadwell,General Manager,Mikeb@awbottling.com,425.355.0100,7620 Hardeson Road,Everett,98203,Snohomish,Puget Sound,Solo,0,,False,False,False
-279c06c2bd5b,"Baker's Breakfast Cookies, Inc. (dba) Erin Bakers",MANUFACTURERS,Manufacturing,Health Trust,https://erinbakers.com/,7/1/2024,July,Scott Stephens,Controllers,scotts@erinbakers.com,360.714.9585,427 Ohio Street,Bellingham,98225,Whatcom,Northwest WA,Small,2,,False,False,True
-903fe8493b01,Belief Agency (dba) BAJI LLC,MANUFACTURERS,Manufacturing,Health Trust,https://www.beliefagency.com/,12/1/2023,December,Joshua Yu,,joshua@beliefagency.com,206.659.6297,4611 11th Ave. NW,Seattle,98107,King,Puget Sound,Solo,0,,False,False,True
-c61445480d68,Blind Tiger Design (dba) Toast Group,MANUFACTURERS,Manufacturing,Health Trust,https://blindtigerdesign.com/,11/1/2023,November,Oceania Eagan,Founder/CEO,accounting@blindtigerdesign.com,206.258.4431,417 NW 65th St.,Seattle,98117,King,Puget Sound,Small,1,,False,False,True
-ad53ac215206,"BMT USA, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://bmtusa.com/,4/18/2022,April,Scott Noteboom,President,scottn@bmtusa.com,360.863.2252,14532 169th Dr. SE,Monroe,98272,Snohomish,Puget Sound,Small,1,,False,False,True
-567ffe3cd9b2,Boulder Canyon Ranch,MANUFACTURERS,Manufacturing,Health Trust,https://www.bouldercanyonorganics.com/,11/26/2025,November,David Enquist,CFO,denquist@bouldercanyonorganics.com,509.989.3189,313 W Lincoln Road,Mesa,99343,Benton,Central/Eastern WA,Small,2,,False,False,True
-e5490c600e68,Buyken Metal Products,MANUFACTURERS,Manufacturing,Unknown,https://buyken.com/,1/18/2023,January,Craig Hanela,President,craig@buyken.com,253.852.0634,1216 4th Ave. N.,Kent,98032,King,Puget Sound,Mid,5,,False,False,True
-352e16318330,The BoxMaker a Supply One Company,MANUFACTURERS,Manufacturing,Unknown,https://www.boxmaker.com/,10/3/2018,October,Kristi Duvall,,,,6230 S 190th Street,Kent,98032,King,Puget Sound,Mid,4,,False,False,True
-59e2a936cddf,Caffe Umbria Inc.,MANUFACTURERS,Manufacturing,Health Trust,https://caffeumbria.com/,12/2/2025,December,Jennifer Jackson,Controller,jennifer@caffeumbria.com,206.762.5300,8620 16th Ave. S.,Seattle,98108,King,Puget Sound,Mid,3,,False,False,True
-7c472f01bece,"Cannon Machine Products, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://cannonmch.com/,11/12/2021,November,Robert Cannon,Presidnet,rcannon@cannonmch.com,509.627.0505,1204 S. Clodfelter Rd.,Kennewick,99338,Benton,Central/Eastern WA,Small,1,,True,False,True
-d9eab03471bf,"Catalynt Solutions, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://teamcatalynt.com/,1/31/2025,January,Marjalena Santos,COO,msantos@teamcatalynt.com,206.505.3500,22817 102nd Place,Edmonds,98020,Snohomish,Puget Sound,Small,2,,False,False,True
-62f01cb842d9,Chuckanut Bay Distillery,MANUFACTURERS,Manufacturing,Health Trust,,3/21/2022,March,Jean Marohn,,jean@chuckanutbaydistillery.com,360.738.7179,1311 Cornwall Ave,,,Unknown,Unknown,Solo,0,,False,False,False
-2ed7d50724f5,Cirrus Cycles Inc.,MANUFACTURERS,Manufacturing,Health Trust,https://cirruscycles.com/,10/16/2024,October,Rachel Rachiell,Finance Manager,accounting@cirruscycles.com,360.392.8302,"3926 Irongate Road, Suite D",Bellingham,98226,Whatcom,Northwest WA,Small,2,,False,False,True
-cb6daded6b8c,"Color Craft, LLC",MANUFACTURERS,Manufacturing,Health Trust,http://colorcraftinc.com/,6/1/2019,June,Doug Stewart,President,dougs@colorcraftinc.com,206.832.0027,1130 Andover Park East,Tukwila,98188,King,Puget Sound,Solo,0,,False,False,True
-6b163bbdf5f3,Color Graphics Screenprinting,MANUFACTURERS,Manufacturing,Health Trust,https://www.colorgraphicswa.com/,11/3/2021,November,Voshte Gustafson,President,voshte@colorgraphicswa.com,360.352.3970,2540 Crites St.,Tumwater,98512,Thurston,South Sound,Small,1,,False,False,True
-340f292928fe,"Compressors Northwest (dba) Airware, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://compressorsnw.com,4/16/2024,April,Jaynee Haley,Office Admin/HR,jaynee@compressorsnw.com,425.771.8055,"5800 188th Street SW, Suite B",Lynnwood,98037,Snohomish,Puget Sound,Small,2,,False,False,True
-cc0f460c1817,Corvus Energy USA,MANUFACTURERS,Manufacturing,Health Trust,https://corvusenergy.com/,11/18/2025,November,Nina Nancarrow,HR & Administrative Manager,nnancarrow@corvusenergy.com,360.937.0214,300 Harris Ave.,Bellingham,98225,Whatcom,Northwest WA,Small,1,,False,False,True
-4d26e46e2733,"Crabtree Brands, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://www.crabtreebrands.com/,6/1/2019,June,Colleen Crabtree,COO,colleen@crabtreebrands.com,360.598.2200,19225 8th Ave NE,Poulsbo,98370,Pierce,South Sound,Small,2,,False,False,True
-437c0aeba088,Custom Cones (dba) Highwaymen Supply and Packaging LLC,MANUFACTURERS,Manufacturing,Health Trust,https://customconesusa.com,January,January,Lori Mostoller,HR Director,lori@customconesusa.com,206.219.7516,"4101 Oakesdale Ave SW, Suite 200",Renton,98057,King,Puget Sound,Small,2,,False,False,True
-b4c456ab42a8,"Divers Street Rods, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.diversstreetrods.com/,6/1/2019,June,Denise Divers,Owner,diny@diversstreetrods.com,360.799.1327,PO Box 856,Sulton,98294,Snohomish,Puget Sound,Small,1,,False,False,True
-6c8e8a73e197,Dundon Motorsports,MANUFACTURERS,Manufacturing,Health Trust,https://www.dundonmotorsports.com/,11/10/2025,November,James Bopp,CEO,jamie@dundonmotorsports.com,253.200.4454,"10421 Burnham Dr. NW, Suite 6E",Gig Harbor,98332,Pierce,South Sound,Solo,0,,False,False,True
-fdc222fd6c5b,Dynamic H2O (dba) WaterDrop Systems,MANUFACTURERS,Manufacturing,Unknown,https://waterdropsystems.com,May,May,Sara Gundermann-Jones,General Manager,sara.j@waterdropsystems.com,360.870.1204,7925 Sweet Iron Court SE,Tumwater,98501,Thurston,South Sound,Small,1,,False,False,True
-dc1efe9d6c42,EDCO Metal Fabricators (dba) EDCO Inc.,MANUFACTURERS,Manufacturing,Health Trust,https://edcometalfabricators.com/,11/4/2024,November,Susanna Always,Operations Manager,susanna@edcometalfabricators.com,360.488.4455,14508 Ovenell Road,Mount Vernon,98273,Skagit,Northwest WA,Small,2,,False,False,True
-035762d7dbc3,Enclume Design Products,MANUFACTURERS,Manufacturing,Health Trust,https://enclume.com/,12/1/2017,December,Faruk Manji,President & Owner,faruk@enclume.com,360.385.6100,24 Colwell Street,Port Hadlock,98339,Pierce,South Sound,Small,1,,False,False,True
-73c453aea442,Fab-Tech Inc.,MANUFACTURERS,Manufacturing,Health Trust,,7/14/2021,July,Rhonda Case,,fabtechinc@gmail.com,360.755.0215,9587 Green Road,Burlington,98233,Skagit,Northwest WA,Solo,0,,False,False,False
-2d30ed454250,Fastsigns Everett (dba) Jolly Family Corporation,MANUFACTURERS,Manufacturing,Health Trust,https://www.fastsigns.com/,11/2/2023,November,Lacey Gray,Controller,lacey.gray@fastsigns.com,425.438.9350,2902 Rucker Ave.,Everett,98201,Snohomish,Puget Sound,Small,1,,False,False,True
-814ccf2a575d,Fidalgo Bay Coffee,MANUFACTURERS,Manufacturing,Health Trust,,10/2/2018,October,David Evans,,david@fidalgobaycoffee.com,360.757.8818,856 N Hill Blvd.,Burlington,98233,Skagit,Northwest WA,Solo,0,,False,False,False
-f7465d8de37f,FinalRev Design & Consulting,MANUFACTURERS,Manufacturing,Health Trust,https://finalreveng.com/,12/4/2023,December,Rae Ann Webb,HR Manager,rwebb@finalreveng.com,425.212.8634,"123 E Johnson Ave., Suite 2",Chelan,98816,Chelan,Central/Eastern WA,Solo,0,,False,False,True
-7426fb0dc61c,Firestar Dental Company,MANUFACTURERS,Manufacturing,Health Trust,,1/24/2024,January,David Yee,,david@firstardental.com,425.473.6928,18915 E Valley Highway,Kent,98032,King,Puget Sound,Solo,0,,False,False,False
-5910d6550d46,Freezerworks (dba) Dataworks Development,MANUFACTURERS,Manufacturing,Health Trust,https://dwdev.com,12/1/2022,December,Nicole Codd,,ncodd@dwdev.com,425.673.1974,6608 216th St. SW #100,Mountlake Terrace,98043,King,Puget Sound,Small,1,,False,False,True
-c712970a54c9,"Gardico, Inc. (dba) McBrown, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.gardico.com/,12/1/2018,December,Robert Brown,President,bobbrown@gardico.com,206.283.5850,4912 14th Avenue NW,Seattle,98107,King,Puget Sound,Small,1,,False,False,True
-0dcf447ee6fe,Glant Textiles Corporation,MANUFACTURERS,Manufacturing,Unknown,https://glant.com/,11/1/2023,November,Nichole Almond,Controller,accounting@glant.com,206.725.4444,"3031 S. Walden St., Ste. 200",Seattle,98144,King,Puget Sound,Small,1,,False,False,True
-3885ff25ff36,GlobalTech Plastics LLC,MANUFACTURERS,Manufacturing,Health Trust,https://moldedgroup.com/,3/1/2017,March,Ron Dean,President,ron@globaltechplastics.com,253.854.4100,5555 8th Street E,Fife,98424,Pierce,South Sound,Mid,5,,False,False,True
-bf9caba41e99,"Golden Harvest, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.goldenharvestinc.com/,9/17/2025,September,Lois Holden,,loish@goldenharvestinc.com,360.757.4334,11944 Westar Lane,Burlington,98233,Skagit,Northwest WA,Small,1,,True,False,True
-afca18c4ecf2,"Harbor Island Machine Works, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://harborislandmachine.com,9/7/2023,September,Michael DeFaccio,President/Manager,mtd@outlook.com,206.682.7637,3431 11th Ave. SW,Seattle,98134,King,Puget Sound,Small,1,,False,False,True
-562e873baf5d,"Hendrrickson Farms (dba) Pacific Prepak, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://hendricksonfarms.com/,1/30/2025,January,Kristen McCutcheon,Office Manager,team@hendricksonfarms.com,360.653.1661,3925 134th St. NE,Marysville,98271,Snohomish,Puget Sound,Small,1,,False,False,True
-59cd9554b20f,"Heritage Distilling Company, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://heritagedistilling.com/,10/1/2018,October,Wendy Flick,Chief Compliance Officer,wendy@heritagedistilling.com,562.397.8504,3207 57th Street Court East,Gig Harbor,98335,Pierce,South Sound,Mid,4,,False,False,True
-7d98ff70bc70,Hoffman Manufacturing,MANUFACTURERS,Manufacturing,Health Trust,"https://Hoffman Manufacturing | Mine Door Systems Services Tensed, ID",12/17/2024,December,Jacqueline Hoffman,Secretary,jacque@hoffman-mfg.com,208.686.2103,382477 Highway 95,"Tensed, ID",99128,Spokane,Central/Eastern WA,Solo,0,,False,False,True
-3dde17029bb2,"Holy Lamb Organics and Soaring Heart Natural Beds (dba) Sleepy Sheep Brands, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://www.holylamborganics.com/,9/16/2025,September,Mindy Schaefer,Managing Member,mindy@holylamborganics.com,206.276.8067,104 W. Pine St.,Oakville,98568,Thurston,South Sound,Small,1,,True,False,True
-896e7132a7b1,"iClick, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.iclick.com/,4/30/2025,April,Jennifer Heitland,Controller,jenniferh@iclick.com,800.456.9177,3931 1st Ave. S.,Seattle,98134,King,Puget Sound,Solo,0,,False,False,True
-c112639a3374,ID Integration,MANUFACTURERS,Manufacturing,Health Trust,https://id-integration.com/,5/30/2018,May,Gary Moe,President,gmoe@id-integration.com,435.438.2533,13024 Beverly Park Road #104,Mukilteo,98275,Snohomish,Puget Sound,Solo,0,,False,False,True
-76d020af64bf,"Impressions Worldwide, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.impressionsworldwide.com/,11/1/2019,November,Patricia Bonnett,Executive Assistant/HR,pbonnett@impressionsworldwide.com,360.503.1069,11369 Higgins Airport Way,Burlington,98233,Skagit,Northwest WA,Small,2,,False,False,True
-590f49ca3860,Island Machine Inc,MANUFACTURERS,Manufacturing,Unknown,https://www.islandmachineinc.com,May,May,Rebecah Reutimann,Co-Owner/Presidnet,rebecah@islandmachineinc.com,425.595.5023,1303 E Casino Rd,Everett,98203,Snohomish,Puget Sound,Small,1,,False,False,True
-e2a930a6e155,"Java Java Coffee Co., Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://javajavacoffee.com,10/15/2021,October,Brenda Havenicht,President,brenda@javajavacoffee.com,425.432.2184,"23130 224th Place SE., Ste. 101",Maple Valley,98038,King,Puget Sound,Solo,0,,False,False,True
-9f7bcb2db537,"Jet City Laser, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.uid2go.com/,9/1/2020,September,Cynthia Wright,Office Manager/CFO,cwright@uid2go.com,206.623.4949,"1501 15th Street NW, Ste. 105",Auburn,98001,King,Puget Sound,Solo,0,,False,False,True
-4af72dbb8952,"Joe's Garage, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://joesgaragecoffee.com/,8/31/2021,August,Chris Melonas,President/HR Operations,chris@joesgaragecoffee.com,206.466.5579,20232 72nd Ave. S.,Kent,98032,King,Puget Sound,Mid,3,,False,False,True
-a4c4cc170e8f,Joseph Design,MANUFACTURERS,Manufacturing,Health Trust,,10/1/2023,October,Jamie Joseph,,jamie@jamiejoseph.com,206.935.3974,2401 Harbor Ave. SW,Seattle,98126,King,Puget Sound,Solo,0,,False,False,False
-da2964a176b7,K9 Natural Foods USA,MANUFACTURERS,Manufacturing,Health Trust,https://www.naturalpetfoodgroup.com/,10/1/2023,October,Audry Henniger,,ahenniger@naturalpetfoodgroup.com,206.355.7567,14003 Brae Burn Road,Leavenworth,98826,Chelan,Central/Eastern WA,Small,1,,False,False,True
-92698da52f14,Kooapps LLC,MANUFACTURERS,Manufacturing,Health Trust,,12/1/2023,December,Jonathan Chang,,jon@kooappsinc.com,925.330.2076,"15015 Main Street, Suite 200",Bellevue,98007,King,Puget Sound,Solo,0,,False,False,False
-2e1d77115d7c,"Labels Plus, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://labelsplus.com/,12/1/2020,December,Mary Kelp,Operations Manager,mary@labelsplus.com,425.355.4833,2407 - 106th St. SW,Everett,98204,Snohomish,Puget Sound,Solo,0,,False,False,True
-e4c0baa476c3,"Lamar Technologies, LLC",MANUFACTURERS,Manufacturing,Unknown,https://www.lamartech.com/,11/1/2017,November,Scott Grafenauer,,scott@lamartech.com,360.651.8869,14900 40th Avenue NE,Marysville,98271,Snohomish,Puget Sound,Small,1,,False,False,True
-d2c50c1f16b0,Laser Cutting Northwest (dba) Pacific Air Cargo Transfer Systems,MANUFACTURERS,Manufacturing,Health Trust,https://lcnw.com/,12/1/2016,December,Pete Agtuca,,pete@lcnw.com,253.736.2248,3205 C Street NE,Auburn,98002,King,Puget Sound,Small,1,,False,False,True
-c5c14becc5f5,Lightel Technologies,MANUFACTURERS,Manufacturing,Health Trust,https://www.lightel.com/,12/13/2024,December,Elena Wang,Director of Operations & HR Manager,elena.wang@lightel.com,425.277.8000,"2210 Lind Ave. SW, Ste. 100",Renton,98057,King,Puget Sound,Solo,0,,False,False,True
-0e4ed482f60e,Lighthouse Uniform Co.,MANUFACTURERS,Manufacturing,Health Trust,,12/1/2023,December,Ben Meyerson,,bmeyerson@lighthouseuniform.com,206.282.6380,1532 15th Ave. W,Seattle,98119,King,Puget Sound,Solo,0,,False,False,False
-0f5b7e49fe6a,Lost Lake Games LTD,MANUFACTURERS,Manufacturing,Health Trust,https://lostlakegames.com/,11/12/2025,November,James Phinney,CEO & Co-Founder,phinney@lostlakegames.com,206.817.2307,"600 1st Ave. Ste. 102, #1122",Seattle,98104,King,Puget Sound,Solo,0,,False,False,True
-7603b5532db3,Lotus United LLC,MANUFACTURERS,Manufacturing,Health Trust,https://www.lotusunited.com/,12/2/2024,December,Reed Hunt,Controller,reedh@lotusunited.com,206.390.1204,7511 Greenwood Ave. N. #103,Seattle,98103,King,Puget Sound,Small,1,,False,False,True
-e1862d99dd3c,"Lynden Tribune & Print Co. (dba) Lewis Publishing Co., Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.lyndentribune.com/,12/11/2023,December,Michael Lewis,President,mdlewis@lyndentribune.com,360.354.4444,113 6th St.,Lynden,98264,Snohomish,Puget Sound,Small,1,,False,False,True
-2d47f8b117e2,Master Press Incorporated,MANUFACTURERS,Manufacturing,Health Trust,https://masterpress.net/,10/14/2025,October,Ryan Shigeno,GM / Owner,ryan@masterpress.net,,10717 Midvale Ave. N.,Seattle,98133,King,Puget Sound,Solo,0,,False,False,True
-2561f651a43a,"Membrion, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://membrion.com/,10/22/2020,October,Greg Newbloom,CEO,greg@membrion.com,206.2762944,"3257 17th Ave. W., Bldg. 3",Seattle,98119,King,Puget Sound,Solo,0,,False,False,True
-c930441870ef,Metal Solutions LLC,MANUFACTURERS,Manufacturing,Health Trust,https://metalsolutionsllc.com/,10/24/2024,October,Claire Wagner,Operations & Marketing Manager,office@metalsolutionsllc.com,206.682.5587,6259 Airport Way S,Seattle,98108,King,Puget Sound,Small,1,,False,False,True
-97c98f9c885a,"Meyer Sign Company, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://meyersign.com/,1/1/2019,January,Ken Hitt,Office,ken@meyersign.com,360.424.1325,2608 Hwy 99 South,Mount Vernon,98273,Skagit,Northwest WA,Small,1,,False,False,True
-f1c8362751d6,"Mid-Mountain Materials, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://mid-mountain.com/,1/1/2020,January,Gretchen Reimbold,COO,gkr@mid-mountain.com,206.762.7600,"2731 77th Avenue SE, Ste. 100",Mercer Island,98040,King,Puget Sound,Large,7,,False,False,True
-b42fcc42c3ef,"Mike Lull's Guitar Works, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.mikelull.com/,1/18/2022,January,Spencer Lull,President,spencer@mikelull.com,425.643.8074,"12031 Northup Way, Suite 206",Bellevue,98005,King,Puget Sound,Small,1,,False,False,True
-8f05e3ae0483,"Mobile Merchandisers, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.mobmerch.com/,11/18/2025,November,Tara Casalino,Office Manager,accounting@mobmerch.com,360.603.4884,2611 Henson Road,Mount Vernon,98273,Skagit,Northwest WA,Small,2,,False,False,True
-4cb7cfc85d8e,MoltenWorks Glass Studio (dba) MoltenWorks LLC,MANUFACTURERS,Manufacturing,Health Trust,https://moltenworks.com,11/2/2024,November,Kevin Creekmore,Owner,kevin@moltenworks.com,425.999.2596,"12602 NE 178th St., Ste. A",Woodinville,98072,King,Puget Sound,Solo,0,,False,False,True
-c8ad0cd0031e,New Tech Industries,MANUFACTURERS,Manufacturing,Health Trust,https://www.newtechind.com/,4/9/2025,April,Gina Morken,Director,gina@newtechind.com,425.778.1200,7911 44th Ave. W.,Mukilteo,98275,Snohomish,Puget Sound,Solo,0,,False,False,True
-faf4025610d6,Nichols Bros Stoneworks,MANUFACTURERS,Manufacturing,Health Trust,https://nicholsbros.com/,12/1/2018,December,DR Hendel,,DR@nicholsbros.com,425.387.0173,20209 BroadwayAvenue,Snohomish,98296,Snohomish,Puget Sound,Small,2,,False,False,True
-51ebee804959,"NorPlex, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://norplexinc.com/,5/1/2018,May,Jerry Sanford,President,jsanford@norplexinc.com,253.735.3431,PO Box 814,Auburn,98071,King,Puget Sound,Solo,0,,False,False,True
-e78a9f7350f6,"Northwest LED Lighting, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://northwestled.com/,12/11/2020,December,Randy King,President,randy@northwestled.com,360.422.5387,"1404 Riverside Dr., Suite F",Mount Vernon,98372,Skagit,Northwest WA,Small,1,,False,False,True
-7dc3c9d8f171,Northwest Sign & Design (dba) Expressions Signs Inc. ** Renews March,MANUFACTURERS,Manufacturing,Health Trust,https://www.nwsigns.com/,2/28/2025,February,Jay Lazaro,Controller,jay@nwsigns.com,425.844.6415,17201 Beaton Road SE,Monroe,98272,Snohomish,Puget Sound,Small,2,,False,False,True
-abc8ac7099a9,"Olson's Baking Company, LLC (dba) Signature Bakery, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://olsonbakingco.com/,10/1/2018,October,Charlie Olson,,colson@olsonbakingco.com,206.295.8534,"6414 204th St SW, ST 100",Lynwood,98036,King,Puget Sound,Small,1,,False,False,True
-10503a7cb290,"Olympia Coffee Roasters Co. (dba) Sea Level Coffee, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://olympiacoffee.com/,1/1/2019,January,Oliver Stormskak,,oliver@olympiacoffee.com,808.636.5777,108 Cherry Street NE,Olympia,98501,Thurston,South Sound,Small,2,,False,False,True
-80820a4def10,Out of the Box Manufacturing,MANUFACTURERS,Manufacturing,Health Trust,https://www.obmfg.com/,1/1/2017,January,Allison Budvarson,COO/Co-Owner,allison@obmfg.com,253.880.2921,1600 SW 43rd Street #200,Renton,98057,King,Puget Sound,Large,9,,True,True,True
-8bd9e134d194,"Pacific Belting & Supply, Inc.",MANUFACTURERS,Manufacturing,Health Trust,,11/26/2024,November,Stacy Chapin,CFO,jandschapin@hotmail.com,360.580.7539,2629 Henson Road,Mount Vernon,98273,Skagit,Northwest WA,Small,1,,False,False,False
-f18c99912cc9,Pacific Metalurgical Inc.,MANUFACTURERS,Manufacturing,Unknown,https://pacmet.com/,8/24/2018,August,Derek Fallen,President,derek@pacmet.com,800.428.9436,925 5th Avenue South,Kent,98032,King,Puget Sound,Mid,3,,False,False,True
-bf919caf63b4,"Pacific Sportswear (dba) Winmarketing, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://www.pacificsportswear.com/,11/1/2017,November,Mark Winward,President,mark@pacificsportswear.com,253.582.4444,10731 A Street S,Tacoma,98445,Pierce,South Sound,Small,2,,False,False,True
-cd14ec1cc4c7,"Pacific Western Agencies, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://pacwestern.com/,8/1/2017,August,Lori Grinter,HR,lori@pacwestern.com,206.763.1802,7700 2nd Avenue South,Seattle,98018,King,Puget Sound,Small,1,,True,False,True
-96cddd22ec21,"Perellion, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.perellion.com/,12/13/2024,December,Cody Brown,CEO,codyb@perellion.com,425.249.6376,"3616 South Road, Ste. C1",Mukilteo,98275,Snohomish,Puget Sound,Small,1,,False,False,True
-92e722b85581,"Pioneer Aerofab Company, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.pioneeraerofab.com/,2/1/2019,February,Tim Williamson,President/CEO,tim@pioneeraerofab.com,360.757.4780,15259 Flightline Road,Burlington,98233,Skagit,Northwest WA,Solo,0,,False,False,True
-60f05eba12df,"PlayEveryWare, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.playeveryware.com/,12/4/2024,December,Ryan Mayer,Chief Design Officer,ryan@playeveryware.com,206.940.7563,"5601 6th Ave. S., Ste. 378",Seattle,98108,King,Puget Sound,Solo,0,,False,False,True
-9d491fbf90a7,"Point Roberts Press, Inc. (dba) Daffodil Press",MANUFACTURERS,Manufacturing,Health Trust,https://www.pointrobertspress.com/,10/1/2024,October,Patrick Grubb,Owner,pgrubb@pointrobertspress.com,360.332.1777,225 Marine Drive Suite 200,Blaine,98230,Snohomish,Puget Sound,Mid,4,,False,False,True
-35d2e157f7b1,Printco (dba) Hill Print Inc.,MANUFACTURERS,Manufacturing,Health Trust,https://printcoinc.com/,11/5/2025,November,Kaye Walter,,kayew@printcoinc.com,425.255.7700,"32 G Street NW, Suite A",Auburn,98001,King,Puget Sound,Solo,0,,False,False,True
-0f70f00fdce2,Printery Communications,MANUFACTURERS,Manufacturing,Health Trust,https://printery.com/,12/19/2024,December,Nicole Mason,Operations Manager,nicole@printery.com,360.385.1256,631 Tyler Street,Port Townsend,98368,Pierce,South Sound,Solo,0,,False,False,True
-7e297b166783,Puget Bindery (dba) Origin Books,MANUFACTURERS,Manufacturing,Health Trust,https://pugetbindery.com/,10/1/2017,October,Ron Diver,Human Resources,ron@pugetbindery.com,253.872.5707,7820 S. 228th Street,Kent,98032,King,Puget Sound,Small,1,,False,False,True
-492034e4cf39,Puyallup Tribal Enterprises,MANUFACTURERS,Manufacturing,Unknown,https://www.puyalluptribalenterprises.com/,6/9/2023,June,Brad Root,CEO/PTE Manufacturing,broot@puyalluptribalenterprises.com,206.910.1337,3009 E Portland Ave.,Tacoma,98404,Pierce,South Sound,Solo,0,,False,False,True
-8873ec9469c5,QR Industries Inc.,MANUFACTURERS,Manufacturing,Health Trust,https://qrind.net/,11/24/2025,November,Terry Olson,Owner/President,terry@qrind.com,360.435.2840,19109 63rd Ave. NE #3,Arlington,98223,Snohomish,Puget Sound,Small,1,,False,False,True
-b0610acce6f9,"Quality Stamping & Machining, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://qualstamp.com,8/15/2023,August,Charles Girtz,President,chuck@qualstamp.com,253.863.5770,1907 137th Ave. E.,Tacoma,98390,Pierce,South Sound,Small,2,,False,False,True
-93e000349005,Questech Unlimited,MANUFACTURERS,Manufacturing,Health Trust,https://questech.us/,11/24/2025,November,Calvin Freid,,calvin.freid@questproductsinc.com,907.782.5201,19017 62nd Ave.S.,Kent,98032,King,Puget Sound,Mid,3,,False,False,True
-2a2dabeb15cc,"Recycled Cycles, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.recycledcycles.com/,11/19/2025,November,Steve Donahue,Owner,steved@recycledcycles.com,206.547.1566,1007 NE Boat Street,Seattle,98105,King,Puget Sound,Small,1,,False,False,True
-4685178d22d4,Redwood Outdoors (dba) Red Rock Outdoors CO,MANUFACTURERS,Manufacturing,Health Trust,https://www.redwoodoutdoors.com/,1/23/2026,January,Killian Lannen,CEO / Owner,killian@redwoodoutdoors.com,206.619.1863,20730 72nd Ave. S.,Kent,98032,King,Puget Sound,Small,2,,False,False,True
-ad29c954f2d3,"Remote Control Technology (dba) GCB Enterprises, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://remotecontroltech.com/,11/19/2025,November,Greg Pardee,President,greg@remotecontroltech.com,425.216.7555,14756 NE 95th St.,Redmond,98052,King,Puget Sound,Solo,0,,False,False,True
-a14b288f633b,Rene Herse Cycles Ltd,MANUFACTURERS,Manufacturing,Health Trust,https://www.renehersecycles.com/,3/3/2023,March,Jan Heine,President,jan@renehersecycles.com,206.326.9970,2442 NW Market St. #426,Seattle,98107,King,Puget Sound,Solo,0,,False,False,True
-8fc34dce9e7f,"Rill Foods, LLC",MANUFACTURERS,Manufacturing,Health Trust,,2/8/2024,February,Ninon Wheatley,,nwheat@fairpoint.net,509.964.2520,11442 N Thorp Hwy,Thorp,98496,Pierce,South Sound,Solo,0,,False,False,False
-3d8593163065,Rothenbuhler Engineering,MANUFACTURERS,Manufacturing,Health Trust,https://rothenbuhlereng.com/,1/12/2026,January,Kriss Rothenbuhler,President,kriss@rothenbuhlereng.com,360.856.0836,PO Box 708,Sedro Woolley,98284,Snohomish,Puget Sound,Solo,0,,False,False,True
-e44baca33168,Rottler Manufacturing,MANUFACTURERS,Manufacturing,Unknown,https://rottlermfg.com/,12/20/2018,December,Janice Budner,HR,janice@rottlermfg.com,253.872.7050,8019 South 200th Street,Kent,98032,King,Puget Sound,Small,1,,False,False,True
-0964204facdf,San Gennaro Foods,MANUFACTURERS,Manufacturing,Health Trust,https://www.polenta.net/,3/4/2022,March,Julio Jimenez,Operations Manager,julio@polenta.net,253.872.1900,19255 80th Ave. S.,Kent,98032,King,Puget Sound,Small,1,,False,False,True
-35527763cdf6,"Seakamp Engineering, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://seakamp.com/,11/9/2021,November,Clark Bergman,VP/COO,clark@seakamp.com,360.734.2788,3985 Hammer Drive,Bellingham,98226,Whatcom,Northwest WA,Small,1,,False,False,True
-7348aac8d9d9,Seattle Shirt Company LLC .,MANUFACTURERS,Manufacturing,Health Trust,https://seattleshirt.com/,12/9/2024,December,Nicole Kalada,HR Director,nicolek@seattleshirt.com,425.368.8691,,,,Unknown,Unknown,Small,2,,False,True,True
-5035bf3b324a,"Shareways Industries, Inc.",MANUFACTURERS,Manufacturing,Health Trust,,1/1/2024,January,Justin Shumway,,justins@shareway.com,253.804.0670,2526 E Street NE,Auburn,98002,King,Puget Sound,Solo,0,,False,False,False
-856d9474131d,Sir Speedy Print/Signs/Marketing (dba) MNS Marketing,MANUFACTURERS,Manufacturing,Health Trust,https://www.sirspeedy.com/tacomawa050/,7/1/2023,July,Mike Slease,President,mikes@sirspeedy0905.com,253.473.0765,"7450 South Tacoma Way, Ste. B1",Tacoma,98409,Pierce,South Sound,Solo,0,,False,False,True
-9875577bf948,Skagit Valley's Best Produce,MANUFACTURERS,Manufacturing,Health Trust,https://www.svbest.com/,1/1/2026,January,Rachelle Grassi,HR Manager,hr@svbest.com,360.848.0777,PO Box 2328,Mount Vernon,98273,Skagit,Northwest WA,Small,1,,False,False,True
-0b07781fef7d,Skills Inc.,MANUFACTURERS,Manufacturing,Unknown,https://www.skillsinc.com/,8/24/2018,August,Charlie Frampton,Director of Operations,charlief@skillsinc.com,206.782.6000,425 C Street NW,Auburn,98001,King,Puget Sound,Large,10,,False,False,True
-6a5909995338,Signature Plastics,MANUFACTURERS,Manufacturing,Health Trust,,8/31/2023,August,Barb Gibson,,bgibson@solutionsinplastic.com,360.366.5044,7837 Custer School Road,Custer,98240,Snohomish,Puget Sound,Solo,0,,False,False,False
-83322d73c06d,Spincycle Yarns LLC,MANUFACTURERS,Manufacturing,Health Trust,https://spincycleyarns.com/,11/5/2025,November,Carly James,HR Manager & Bookkeeper,carly@spincycleyarns.com,630.417.1057,2135 Queen Street B,Bellingham,98225,Whatcom,Northwest WA,Solo,0,,False,False,True
-2ae3cb0da78f,Squires Machine Inc.,MANUFACTURERS,Manufacturing,Health Trust,https://spincycleyarns.com/,12/4/2025,December,Rodrick Helmuth,President/Owner,rod@squiresmachine.com,425.672.7101,19510 21st Ave. W.,Lynnwood,98036,Snohomish,Puget Sound,Small,1,,False,False,True
-bf88a88a09bf,Steeler Inc.,MANUFACTURERS,Manufacturing,Health Trust,https://www.steeler.com/,1/26/2026,January,Matt Surowiecki,President,surowieckim@steeler.com,206.725.2500,10023 MLK Jr. Way South,Seattle,98059,King,Puget Sound,Small,1,,False,False,True
-bca83c38662a,Sterlitech Corporation,MANUFACTURERS,Manufacturing,Health Trust,https://www.sterlitech.com/,9/1/2017,September,Shiela Morgan,Production Coordinator,snaegele@sterlitech.com,253.437.0844,4620 B St. NW,Auburn,98001,King,Puget Sound,Mid,3,,False,False,True
-dddb11824144,Stratus Automation Corporation,MANUFACTURERS,Manufacturing,Health Trust,https://stratusauto.com/,12/1/2020,December,Chan Tan,Owner/Sr. Mechanical Engineering Manager,chan@stratusauto.com,425.291.7240,,,,Unknown,Unknown,Small,1,,False,False,True
-ed83e596fdeb,"Sugiyo USA, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://www.sugiyo.com/,12/2/2025,December,Makoto Kuwata,Senior Manager,kuwata@sugiyo.com,360.293.0180,3200 T Avenue,Anacortes,98221,Skagit,Northwest WA,Small,1,,False,False,True
-f8333d368784,Tahoma Print & MFG,MANUFACTURERS,Manufacturing,Unknown,https://tahomamfg.com/,5/15/2025,May,Gerry Gallagher,,gerryg@tahomamfg.com,,,,,Unknown,Unknown,Solo,0,,False,False,True
-c34428bae1d8,The Foundry Print Shop (dba) The Foundry Clothing Company,MANUFACTURERS,Manufacturing,Health Trust,,10/1/2023,October,Kara Wedmore,,office@thefoundryclothing.com,206.226.9706,411 S. Dawson St.,Seattle,98108,King,Puget Sound,Solo,0,,False,False,False
-bf5b785d05ad,Thready (dba) Pacific NW Gifts,MANUFACTURERS,Manufacturing,Health Trust,https://threadygoods.com/,10/1/2023,October,Lucia Suboh,Owner,accounting@threadygoods.com,206.420.3727,"309 S Cloverdale St., Ste. A15",Seattle,98108,King,Puget Sound,Solo,0,,False,False,True
-04fe7dfe4456,Tiger Custom Computers,MANUFACTURERS,Manufacturing,Health Trust,https://tigertailusa.com/,2/21/2024,February,Spring Faussett,President,spring@tigertailusa.com,206.395.7811 Ext. 212,8504 S. 228th,Kent,98032,King,Puget Sound,Small,1,,False,False,True
-df55110c780f,"TLG Aerospace, LLC",MANUFACTURERS,Manufacturing,Health Trust,https://www.tlgaerospace.com/,10/1/2018,October,Scott Dickson,Director of Finance & Administration,scott.dickson@tlgaerospace.com,206.859.5061 Ex. 129,"1700 Westlake Avenue North, Suite 430",Seattle,98109,King,Puget Sound,Mid,3,,False,False,True
-1ad528565743,TNT Aerospace (dba) TNT Machining,MANUFACTURERS,Manufacturing,Health Trust,https://www.tntaerospace.com/,11/1/2023,November,Aaron Theisen,Owner,aaron@tntaerospace.com,360.988.0274,285 West Garfield Street,Sumas,98295,Snohomish,Puget Sound,Small,1,,False,False,True
-4500e4ffeff9,Torklift Central Welding of Kent,MANUFACTURERS,Manufacturing,Health Trust,https://www.torklift.com/,12/12/2025,December,Jack Kay,President,jackk@torklift.com,253.261.9000,315 N Central Ave.,Kent,98032,King,Puget Sound,Small,2,,False,False,True
-7cf1d9712411,Tri-Tec Manufacturing,MANUFACTURERS,Manufacturing,Health Trust,https://www.tritecmfg.com/,4/1/2017,April,Sam Umporowicz,Supervisor of Production & Control,sumporowicz@tritecmfg.com,425.251.8777,6915 S 234th Street,Kent,98032,King,Puget Sound,Mid,3,,False,False,True
-254bcfd3258e,Triton Holdings (dba) Triton Aerospace,MANUFACTURERS,Manufacturing,Health Trust,https://iflyairplanes.com/,1/1/2018,January,Dacia Hsueh,COO,dacia@iflyairplanes.com,360.399.1630,11768 Westar Lane,Burlington,98233,Skagit,Northwest WA,Small,2,,False,False,True
-800174702359,(dba) Bayview Composites (Sister Company),MANUFACTURERS,Manufacturing,Unknown,https://bayviewcomposites.com/,6/30/2018,June,Art E,HR & HSE Manager,arte@bayviewcomposites.com,360.466.4160,13593 Bayview Edison Rd.,Mt. Vernon,98273,Snohomish,Puget Sound,Solo,0,,False,False,True
-7bb28615d70d,Unitec,MANUFACTURERS,Manufacturing,Unknown,https://www.uniteccorp.com/,,,Sam Friesen,,sam@uniteccorp.com,206.575.1100,358 UplandDrive,Seattle,98188,King,Puget Sound,Small,1,,False,False,True
-0a0fe5efc2c3,Valerie Madison Fine Jewelry (dba) Lilyemme Jewelry LLC,MANUFACTURERS,Manufacturing,Health Trust,https://www.valeriemadison.com/,12/9/2024,December,Valerie Nethery,Owner,val@valeriemadison.com,425.306.9396,1422 34th Ave.,Seattle,98122,King,Puget Sound,Solo,0,,False,False,True
-09fc3896ad9f,"Vallation Outerwear, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://vallationouterwear.com/,10/16/2025,October,Dave Jackson,Co-CEO,dave@vallationouterwear.com,360.930.0542,PO Box 1030,Poulsbo,98370,Pierce,South Sound,Small,1,,False,False,True
-c388e1dfa8f3,Vectroic Machines,MANUFACTURERS,Manufacturing,Unknown,,March,March,Xiong Wang,Founder,wangxiong.us@gmail.com,206.399.8469,9623 162nd Ave NE,Redmond,98052,King,Puget Sound,Solo,0,,False,False,False
-f35684b8676d,"Warmoth Guitar Products, Inc.",MANUFACTURERS,Manufacturing,Health Trust,https://warmoth.com/,12/1/2017,December,Sean Hosfetl,CFO,sean@warmoth.com,253.845.0403,10013 160th Street E,Puyallup,98375,Pierce,South Sound,Small,1,,False,False,True
-d75b82cfdd0d,"Western Integrated Technologies, Inc.",MANUFACTURERS,Manufacturing,Unknown,https://www.westernintech.com/,12/20/2018,December,Kent Davis,HR & Recruiting Manger,kdavis@westernintech.com,425.747.0927,7651 S 190th Street,Kent,98032,King,Puget Sound,Large,10,,False,False,True
-51e3231a5432,WOW Baking Company,MANUFACTURERS,Manufacturing,Health Trust,https://wowbaking.com/,12/6/2021,December,Krys Bush,General Manager,krys@wowbaking.com,425.251.0541,1607 45th Street East,Sumner,98390,Pierce,South Sound,Solo,0,,False,False,True
-dc445f496e0d,YST SemiConductor,MANUFACTURERS,Manufacturing,Health Trust,https://www.yst-semiconductor.com/,9/10/2025,September,Jennifer Lindberg,HR Manager & Ops Assistant,jennifer.lindberg@yst-semiconductor.com,360.360.7214,18110 SE 34th St.,Vancouver,98683,Clark,Southwest WA,Small,1,,False,False,True
-42e32044843b,405 Labs LLC,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://www.dot-shopping.org/articles/smart-buying-guide-lab-and-bird-supplies.html?psystem=PW&domain=405lab.com&oref=https%3A%2F%2F405lab.com%2F,9/29/2026,September,Adam Husa,Director of Operations and Finance,adam.husa@405lab.com,425.269.4192,3113 S. Pine St. Unit C,Tacoma,98409,Pierce,South Sound,Small,1,,False,False,True
-b98eb01d9024,Botanica Seattle (dba) Pacific Overseas Tree Company,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,,1/11/2022,January,Jasmine Mettler,,jasmine@botanicaseattle.com,206.201.2699,"145 S. Horton St., Suite 200",Seattle,98134,King,Puget Sound,Small,1,,False,False,False
-dc8bb9cece05,Botanical Investment Group Inc.,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://www.botanicaglobal.com/,12/11/2024,December,Dylan Kotubey,Director of Operations & Finance,dylan@botanicaglobal.com,206.201.2699,3995 Pleasant Beach Dr. NE,Bainbridge Island,98110,Kitsap,South Sound,Small,1,,False,False,True
-780797326a14,Heavyweight Farms,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://foxcannabiswa.com/,11/19/2025,November,Joe Lembo,CEO,joe@foxcannabiswa.com,360.201.3159,136 Smokey Drive,Bellingham,98226,Whatcom,Northwest WA,Solo,0,,False,False,True
-6a49e5c3954b,Herbs House (dba) Bubble Boutique LLC,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://www.herbshouse.org/,12/5/2025,December,David Sloan,COO / VP / Owner,dssloan@yahoo.com,206.557.7388,716 NW 65th Street,Seattle,98117,King,Puget Sound,Solo,0,,False,False,True
-ca02fcef6977,Keystone Creations (dba) 112th Street Cannabis,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,,12/15/2023,December,Hector Martinez,HR Manager,hr@northshorewa.com,253.446.7437,5809 112th Street E,Puyallup,98373,Pierce,South Sound,Solo,0,,False,False,False
-d9b827f59e3e,LeafWerx (dba) Edgemont Group LLC (dba) Sungrown,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://leafwerx.com/,7/21/2021,July,Pat Lucio,HR Manager,plucio@thewerx.com,509.888.0420,"349 Urban Industrial Way, Unit E",Wenatchee,98802,Chelan,Central/Eastern WA,Solo,0,,False,False,True
-37db9b10cff8,Open Source Steel,JOINT ACCESS - CANNABIS,Cannabis,Unknown,https://www.opensourcesteel.com/,4/9/2025,April,Josh Dellay,Co-Owner,josh@opensourcesteel.com,206.388.2367,23414 68th Ave. S.,Kent,98032,King,Puget Sound,Solo,0,,False,False,True
-bb9926c19b57,Reach Island (dba) Issquah Cannibus Company (** same mgmt Keystone),JOINT ACCESS - CANNABIS,Cannabis,Health Trust,,5/14/2021,May,Clifford Gehrett,,hr@northshorewa.com,425.295.9717,"230 NE Juniper Street, Suite 201",Issaquah,98027,King,Puget Sound,Solo,0,,False,False,False
-eba22f254095,Root Sciences,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://www.rootsciences.com/,12/17/2020,December,Eric Croft,Owner | CFO,eric@rootsciences.com,206.595.2529,PO Box 445,Belfair,98528,Thurston,South Sound,Mid,3,,False,False,True
-34d93d04542a,Skagit Organics,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://www.skagitorganics.net/,1/27/2026,January,Matthew Friedlander,CEO,skagitorganics@gmail.com,360.627.1555,"16915 State Route 20, Unit B",Mount Vernon,98273,Skagit,Northwest WA,Solo,0,,False,False,True
-8251855fa8a4,The Herbal Gardens (dba) LC Management LLC,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,,1/14/2027,January,Kira Wohlfeil,Bookkeeper,k.wohlfeil@icloud.com,702.875.6868,4803 Center St.,Tacoma,98409,Pierce,South Sound,Small,1,,False,False,False
-f2308fb8667e,"Torus (dba) Firetree, LLC",JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://torusculture.com/,3/18/2022,March,Tony Tran,CEO,tony@torusculture.com,206.351.3719,PO Box 61283,Seattle,98141,King,Puget Sound,Solo,0,,False,False,True
-614102e85175,Wizard Staff Services (dba) Light Brigade Solutions,JOINT ACCESS - CANNABIS,Cannabis,Health Trust,https://lightbrigade.solutions,9/5/2023,September,Lori Gross,Controller,lori@lightbrigade.solutions,253.250.7456,3303 S 35th St. B13,Tacoma,98409,Pierce,South Sound,Small,1,,False,False,True
-7a604d9e5f48,Andrew Will Cellars (dba) Camarda Corp.,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,,10/14/2020,October,Will Camarda,,will.camarda@gmail.com,206.463.9227,12526 SW Bank Road,Vashon,98070,King,Puget Sound,Solo,0,,False,False,False
-5bc156a540f3,AniChi Cellars,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,,11/17/2021,November,Rachael Horn,Winemaker,rachael@anichicellars.com,360.624.6531,71 Little Buck Creek Road,Underwood,98651,Clark,Southwest WA,Small,1,,False,False,False
-4a2226a58ef9,"Arbor Crest Wine Cellars (dba) Arbor Crest Wineries and Nursery, Inc.",JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.arborcrest.com/,12/7/2025,December,Kristina van Loben Sels,CEO,kristina@arborcrest.com,509.927.9463,4705 N Fruit Hill Road,Spokane,99217,Spokane,Central/Eastern WA,Small,2,,False,False,True
-0528c295c95e,Bottle360 (dba) November 2nd Inc,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.bottlethreesixty.com,March,March,Katherine Adams,CEO,katherine@bottlethreesixty.com,206.356.7955,"2401 4th Ave., Ste 850",Seattle,98121,King,Puget Sound,Solo,0,,False,False,True
-281ab9cabd67,Cairdeas Winery (dba) West Seattle Winery LLC,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://cairdeaswinery.com/,11/6/2024,November,Lacey Lybecker,Owner,lacey@cairdeaswinery.com,206.947.1294,31 Winesap Ave.,Kirkland,98831,King,Puget Sound,Solo,0,,False,False,True
-ae7853efa89a,Cascade Cliffs Vineyard & Winery (dba) Petroglyph Winery,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,,9/1/2020,September,Denise Lorkowski,,cascadecliffs@gorge.net,509.767.1100,8866 Hwy 14 | PO Box 14,Wishrom,98673,Clark,Southwest WA,Solo,0,,False,False,False
-ab7027dabdb3,Cayuse Vineyards (dba) Badass Farming LLC,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://cayusevineyards.com/static/,11/4/2021,November,Trevor Dorland,General Manager,trevor@cayusevineyards.com  (hr@northshorewa.com),509.526.0686,PO Box 1602,Walla Walla,99362,Walla Walla,Central/Eastern WA,Solo,0,,False,False,True
-f7a09dad4f51,DeLille Cellars,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://delillecellars.com/,1/27/2026,January,Kelly Lindamood,Head of Human Resources,klindamood@delillecellars.com,425.375.0135,14300 NE 145th Street,Woodinville,98072,King,Puget Sound,Small,2,,False,False,True
-6a8491335693,"Dunham Cellars (dba) Trey Marie Vineyards, LLC",JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://dunhamcellars.com/,12/21/2021,December,Jacquie Roach,Controller,jacquie@dunhamcellars.com,509.529.4685,150 E Boeing Ave.,Walla Walla,99362,Walla Walla,Central/Eastern WA,Small,1,,False,False,True
-15910e05e6a4,"Eleven Winery, Inc.",JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,,1/1/2020,January,Matt Albee,,matt@elevenwinery.com,206.780.0905,7671 NE Day Road,Bainbridge Island,98110,Kitsap,South Sound,Solo,0,,False,False,False
-d1f1341a0370,Foundry Vineyards,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.foundryvineyards.com/,8/19/2022,August,Lisa Anderson,General Manager,lisa@foundryvineyards.com,509.529.0736,1111 Abadie Street,Walla Walla,99362,Walla Walla,Central/Eastern WA,Small,1,,False,False,True
-061afa7eea02,"Gorman Winery (dba) Sleeping Giant Winery, LLC",JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.gormanwinery.com/,8/1/2018,August,Chris Gormanb,Owner,chris@gormanwinery.com,206.605.2125,"19501 44th Ave. NE, C500",Woodinville,98072,King,Puget Sound,Solo,0,,False,False,True
-281142ccca13,L'Ecole No 41 Winery (dba) Lowden Schoolhouse Corp.,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.lecole.com/,12/17/2021,December,Nanci Crowley,Controller,nanci@lecole.com,509.525.0940,PO Box 111,Lowden,99360,Benton,Central/Eastern WA,Small,1,,False,False,True
-916000db1d57,Maryhill Winery (dba) V&C LLC,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.maryhillwinery.com/,12/9/2026,December,Craig Leuthold,Owner,craigl@maryhillwinery.com,506.773.1976,9774 Highway 14,Golenendale,98620,Clark,Southwest WA,Small,2,,False,False,True
-288aab62d88a,"McKinley Springs, LLC",JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.mckinleysprings.com,March,March,Justin Andrews,Managing Member,justin@mckinleysprings.com,509.830.1378,1201 Alderdale Rd,Prosser,99350,Benton,Central/Eastern WA,Small,1,,False,False,True
-6c589b013e5c,MPM Vinteners LLC (dba) Artifex Wine Company,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.artifexwineco.com/,12/9/2026,December,Sophia Titterton,,sophia@artifexwineco.com,509.525.2469,1102 Dell Ave.,Walla Walla,99362,Walla Walla,Central/Eastern WA,Solo,0,,False,False,True
-62688900cb1c,"Saviah Cellars (dba) Saviah Rose Winery, LLC",JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.saviahcellars.com/,10/13/2025,October,Anita Funk,Owner / Manager,anita@saviahcellars.com,509.522.2181,1979 J B George Road,Walla Walla,99362,Walla Walla,Central/Eastern WA,Small,1,,True,False,True
-1c3be2af2da5,Sleight of Hand Cellars,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.sofhcellars.com/,9/15/2025,September,Keith Johnson,Winery,keith@sofhcellars.com,509.525.3661,1959 JB George RD,Walla Walla,99362,Walla Walla,Central/Eastern WA,Solo,0,,False,False,True
-290dc237d419,Structure Cellars Winery,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://structurewines.com/,2/28/2025,February,Brandee Slosar,Co-Owner,brandee@structurewines.com,206.841.0853,888 Western Ave. #1312,Seattle,98041,King,Puget Sound,Solo,0,,False,False,True
-3ad142b14ef6,The Walls Vineyards (dba) Project Logan LLC,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://thewallsvineyards.com/,1/1/2026,January,Annalysa White,Accounting,accounting@thewallsvineyards.com,509.386.7660,1015 W Pine Street,Walla Walla,99362,Walla Walla,Central/Eastern WA,Solo,0,,False,False,True
-0ac7aff4b718,The Winemakers Reserve (dba) Woodinville Custom Wines,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.thewinemakersreserve.com/,3/1/2023,March,Zoie Steed,,zoie@thewinemakersreserve.com,425.275.2738,"15902 Woodinville-Redmond Rd. NE, Suite D6",Woodinville,98072,King,Puget Sound,Small,1,,False,False,True
-4de393f6f301,Thurston Wolfe Winery LLC,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://thurstonwolfe.com/,12/7/2025,December,Josh Wolfe,General Manager,joshw@thurstonwolfe.com,509.832.0633,588 Cabernet Court,Prosser,99350,Benton,Central/Eastern WA,Solo,0,,False,False,True
-4019d841b32f,Tirriddis Sparkling Wines (dba) Tirriddis LLC,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://nv-wines.com,12/9/2025,December,Gabriel Crowell,Owner,gabriel@nv-wines.com,509.554.3440,822 Main Street,Prosser,98350,Pierce,South Sound,Solo,0,,False,False,True
-0321b9c641ba,"Walden Selections (dba) Triple Beam Imports, LLC",JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.waldenselections.com/,1/16/2026,January,Luke Wohlers,Managing Director,luke@waldenselections.com,206.590.0650,4811 Airport Way S.,Seattle,98108,King,Puget Sound,Solo,0,,False,False,True
-e15c31b1a012,Winery Compliance Services LLC,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://www.wcsofww.com/,3/1/2023,March,Julie Myrick,,julie@wcsofww.com,509.876.2461,"173 Middle Waitsburg Rd. Bldg. C, Ste. 120",Walla Walla,99362,Walla Walla,Central/Eastern WA,Solo,0,,False,False,True
-2575f35559da,Winemakers Depot,JOINT ACCESS - WINE ASSOCIATION,Wine,Health Trust,https://winemakersdepot.com/,8/14/2024,August,Karla Youngers,Accountant,karla.y@winemakersdepot.com,360.878.8983,10940 Littlerock Road SW,Olympia,98512,Thurston,South Sound,Small,1,,False,False,True
-a2cb8529c34b,"20 Corners Brewing, LLC",JOINT ACCESS - BREWING,Brewing,Health Trust,https://www.20cornersbrewing.com/,1/1/2020,January,Andrew Davis,Owner,andrew@20cornersbrewing.com,425.305.6620,14148 NE 190th Street SE,Woodinville,98072,King,Puget Sound,Small,1,,False,False,True
-2dd2a0577d67,Bainbridge Island Brewing,JOINT ACCESS - BREWING,Brewing,Health Trust,https://bainbridgebeer.com/,11/15/2021,November,Charles Everett,Co-Owner | General Manager | LLC Manager,chuck@bainbridgebeer.com,206.451.4646,"9415 Coppertop Loop NE, Suite 104",Bainbridge Island,98110,Kitsap,South Sound,Small,2,,False,False,True
-dd7eb6df729c,Bellevue Brewing Company - Spring District LLC,JOINT ACCESS - BREWING,Brewing,Health Trust,https://www.bellevuebrewing.com/,1/5/2023,January,Angela Robertson,Managing Member,angela.robertson@bellevuebrewing.com,425.497.8686,12190 NE District Way,Bellevue,98005,King,Puget Sound,Solo,0,,False,False,True
-88803cf664dc,Dru Bru,JOINT ACCESS - BREWING,Brewing,Health Trust,https://www.drubru.com/,8/26/2024,August,Taylor Gale,HR & Operations Manager,taylor@drubru.com,425.753.3473,"10 Pass Life Way, Ste. 3",Snoqualmie Pass,98068,King,Puget Sound,Small,1,,False,False,True
-31fac68206c7,Fair Isle Brewing,JOINT ACCESS - BREWING,Brewing,Health Trust,https://fairislebrewing.com/,5/28/2024,May,Andrew Pogue,,apogue@fairislebrewing.com,206.428.3434,936 NW 49th St.,Seattle,98107,King,Puget Sound,Solo,0,,False,False,True
-fabb37df91d6,Five Dollar Ranch Brewing Company,JOINT ACCESS - BREWING,Brewing,Health Trust,https://fivedollarranchbeer.com,206.856.5674,,Josh Hulett,,josh@fdrbeer.com,206.856.5674,3557 Peppers Bridge Road,Walla Walla,99362,Walla Walla,Central/Eastern WA,Solo,0,,False,False,True
-f314f9b2b041,Future Primitive Brewing (dba) Unified Brewing Co.,JOINT ACCESS - BREWING,Brewing,Health Trust,https://www.futureprimitivebeer.com/,12/18/2024,December,Dean Hudgins,Owner,dean@futureprimitivebeer.com,206.419.9512,4425 4th Ave. NE,Seattle,98105,King,Puget Sound,Solo,0,,False,False,True
-97541d266ade,Island Hopping Brewery ** Renews in August,JOINT ACCESS - BREWING,Brewing,Unknown,https://www.islandhoppinbrewery.com/,8/24/2021,August,Rebecca Gray,Owner | Manager,becca@islandhoppinbrewery.com,360.376.6079,33 Hope Lane,Eastsound,98245,Snohomish,Puget Sound,Solo,0,,False,False,True
-73ec352fa0c4,Loowit Brewing Company,JOINT ACCESS - BREWING,Brewing,Health Trust,https://loowitbrewing.com/,12/4/2024,December,Devon Bray,Co-Owner,owners@loowitbrewing.com,360.566.2323,507 Columbia Street,Vancouver,98660,Clark,Southwest WA,Solo,0,,False,False,True
-f6e4395f57f4,Urban Family Brewing,JOINT ACCESS - BREWING,Brewing,Health Trust,,1/16/2024,January,Andrew Gundel,,andy@urbanfamilybrewing.com,360.566.2323,507 Columbia Street,Vancouver,98660,Clark,Southwest WA,Solo,0,,False,False,False
-c83556ee0ee8,"Varietal Beer Company (dba) North First Industries, Inc.",JOINT ACCESS - BREWING,Brewing,Health Trust,https://varietalbeer.com/,2/2/2022,February,Christofer Baum,,chris@varietalbeer.com,509.515.2222,416 E Edison Ave.,Sunnyside,98944,Yakima,Central/Eastern WA,Small,2,,False,False,True
-3a5cfe2ea4b4,Washington Brewers Guild,JOINT ACCESS - BREWING,Brewing,Health Trust,https://www.washingtonbrewersguild.org,April,April,Daniel Olson,Executive Director,daniel@washingtonbrewersguild.org,425. 501.1626,1801 Birchfield Rd,Yakima,98901,Yakima,Central/Eastern WA,Solo,0,,False,False,True
-ce775140c830,"Aerontii, LLC",JOINT ACCESS - PNAA,Aerospace (PNAA),Health Trust,https://aerontii.com/,2/17/2026,February,Travis Dykstra,Managing Partner,travis2aerontii.com,425.273.1876,8810 NE 137th Place,,,Unknown,Unknown,Small,2,,False,False,True
-5d05620dfbc0,VT Volant Aerospace,JOINT ACCESS - PNAA,Aerospace (PNAA),Health Trust,,11/3/2023,November,Marlo Letourneau,,marloletourneau@vtvolant.com,360.757.2376,11817 Wester Lane,Burlington,98233,Skagit,Northwest WA,Solo,0,,False,False,False
-a469faa254bc,Sealth Aero Marine,JOINT ACCESS - PNAA,Aerospace (PNAA),Health Trust,https://sealth.com/,11/13/2025,November,Richard Olson,President,rolson@sealth.com,425.481.0727,16001 Mill Creek Blvd.,Mill Creek,98012,King,Puget Sound,Solo,0,,False,False,True
-38e5e40bc505,Yakima Machine (dba) Yakima Machine Group,JOINT ACCESS - NIMA,Maritime (NIMA),Health Trust,https://www.yakimamachine.com/,12/19/2024,December,Dorian Kensok,President,dorian@yakimamachine.com,509.452.5628,1120 1/2 North 34th Ave.,Yakima,98902,Yakima,Central/Eastern WA,Small,1,,False,False,True
-a462ec4b4408,Aimbridge Energy Group (dba) DC Energy Group,SUPPLY CHAIN,Supply Chain,Health Trust,https://www.aimbridgeenergy.com/,1/21/2025,January,Luis Mata,CFO,luis.mata@aimbridgegreenery.com,425.588.0203,"22314 70th Ave. W., Unit 4",Mountlake Terrace,98043,King,Puget Sound,Small,1,,False,False,True
-2443d148256e,"Aronson-Campbell Industrial Supply, Inc.",SUPPLY CHAIN,Supply Chain,Health Trust,https://aronson-campbell.com/,9/15/2025,September,Wesley Barton,Controller,wesleyb@aronson-campbell.com,425.372.2003,1700 136th Place NE,Bellevue,98005,King,Puget Sound,Small,2,,False,False,True
-5d5f140dab73,AV Labs,SUPPLY CHAIN,Supply Chain,Health Trust,https://avlabsinc.com,1/13/2026,January,Vaughn Pregram,Owner,von@avlabsinc.com,509.488.2468,64 N Broadway Ave.,Othello,99344,Benton,Central/Eastern WA,Small,1,,False,False,True
-99a0594ef5a1,"Balancing Services Company, Inc. (dba) Thomas L. Bonfiglio, Inc.",SUPPLY CHAIN,Supply Chain,Health Trust,https://balancingservice.com/,11/26/2024,November,Lynda Mead,,lmmead@comcast.net,206.763.1260,8009 7th Ave. S. #110,Seattle,98108,King,Puget Sound,Small,1,,False,False,True
-dcf96aed8d7d,"Confidence Analytics, Inc.",SUPPLY CHAIN,Supply Chain,Health Trust,,11/1/2019,November,Beth Cantrell,,beth@conflabs.com,206.743.8843,14797 NE 95th,Redmond,98052,King,Puget Sound,Solo,0,,False,False,False
-5f89d19c8a13,Hammond Ashley Viollins,SUPPLY CHAIN,Supply Chain,Unknown,https://Hammondashley.com,May,May,Bryce Van Parys,Vice President,bryce@hammondashley.com,425.392.3963,970 5th Ave NW suite 100,Issaquah,98027,King,Puget Sound,Small,1,,False,False,True
-f3247af901d1,Ikonika Corporation,SUPPLY CHAIN,Supply Chain,Unknown,https://ikonika.com/,9/17/2024,September,Jon Edwards,Member,jon@ikonika.com,425.654.9625,"5113 Pacific Hwy. E., Ste. 2",Fife,98424,Pierce,South Sound,Small,1,,False,False,True
-3ff192f51134,Jon Henry Transport LLC,SUPPLY CHAIN,Supply Chain,Unknown,https://jonhenrytransport.com,11/14/2024,November,Jonathan LaCount,Owner,jonathan@jonhenrytransport.com,360.661.5353,34183 Hamilton Cemetery Road,Sedro Wooley,98284,Snohomish,Puget Sound,Solo,0,,False,False,True
-3fe9ed28d889,Kam-Way Transportation Inc.,SUPPLY CHAIN,Supply Chain,Health Trust,https://kam-way.com,11/6/2024,November,Harneet Sihota,HR Director,harneet@kam-way.com,360.332.1444,215 Marine Drive,Blaine,98230,Snohomish,Puget Sound,Small,2,,False,False,True
-5d4ae5eb854f,Les Boulangers Associes,SUPPLY CHAIN,Supply Chain,Health Trust,https://lba-inc.com/,12/7/2021,December,Michelle Kindorf,Accounting,michellek@lba-inc.com,206.241.9343,18842 13th Place South,SeaTac,98148,King,Puget Sound,Small,2,,False,False,True
-4394f2445005,Lost Media Company (dba) The Lost Co.,SUPPLY CHAIN,Supply Chain,Health Trust,https://thelostco.com/,4/25/2025,April,Mindy McCutcheon,Co-Owner,mindy@thelostco.com,231.631.1159,2106 Pacific St. Ste. 101,Bellingham,98229,Whatcom,Northwest WA,Solo,0,,False,False,True
-f310823927b1,"P. Winterholler Tire Center, Inc.",SUPPLY CHAIN,Supply Chain,Health Trust,,12/16/2024,December,Sophia Martin,Bookkeeper,wapatotirecenter@gmail.com,509.877.3722,403 West 1st Street,Wapato,98951,Yakima,Central/Eastern WA,Solo,0,,False,False,False
-38b6f928dfd9,Salmon Bay Barge Line,SUPPLY CHAIN,Supply Chain,Health Trust,https://sbaybarge.com,11/25/2025,November,Jason Gorman,Bookkeeper,bookkeeper@sbaybarge.com,206.762.0730,4749 W. Marginal Way SW,Seattle,98106,King,Puget Sound,Solo,0,,False,False,True
-4b7793d64d07,"Sound Distributions, Inc. (dba) Foss Car Toys",SUPPLY CHAIN,Supply Chain,Unknown,http://www.loveyourstereo.com/,April,April,Patrice Lenox,Bookkeeper,patrice@fossemployees.com,360.701.5920,512 Strander Blvd,Tukwilla,98188,King,Puget Sound,Small,2,,False,False,True
-a31638e9cf89,"US BioTek Laboratories, Inc.",SUPPLY CHAIN,Supply Chain,Health Trust,https://www.usbiotek.com/,1/1/2026,January,Amy Yip,CFO,ayip@usbiotek.com,206.365.1256,16020 Linden Ave. N.,Shoreline,98133,King,Puget Sound,Solo,0,,False,False,True
-f6e29561e29c,"Walter Implement, Inc.",SUPPLY CHAIN,Supply Chain,Health Trust,https://www.walterimplement.com/,9/3/2025,September,Laurie Wilson,Office Manager,laurie@walterimplement.com,509.867.3727,1105 E Dobson Road,Odessa,99159,Spokane,Central/Eastern WA,Small,1,,False,False,True
-09e63dee4e44,Andon Point,ASSOCIATES,Associate,Unknown,https://andonpoint.com/,7/8/2025,July,Jeff Root,President,jeff@andonpoint.com,206.790.5449,"5101 14th Ave. NW., Ste. 200 #508",Seattle,98107,King,Puget Sound,Solo,0,,False,False,True
-094bb2b806be,AppsJack,ASSOCIATES,Associate,Unknown,https://appsjack.com/,2/4/2026,February,Eric Veal,Founder & CEO,eric@appsjack.com,206.819.9982,6206 West Shore Road,Anacortes,98221,Skagit,Northwest WA,Solo,0,,False,False,True
-c97e71aabc6b,Bank of America,ASSOCIATES,Associate,Unknown,https://www.bankofamerica.com/,5/30/2018,May,Galina Prokop,Senior Relationship Manager,galina.v.prokop@bofa.com,206.348.2800,"1201 Pacific Ave., Suite 825",Tacoma,98402,Pierce,South Sound,Large,9,,True,True,True
-fd7096adfd01,CBIZ | Berntson Porter & Company,ASSOCIATES,Associate,Unknown,https://www.cbiz.com/,7/19/2018,July,Nikki Wright,Managing Director,nikki.wright@cbiz.com,425.454.7990,"11100 NE 8th Street, Suite 400",Bellevue,98004,King,Puget Sound,Large,11,,False,False,True
-35367c46c740,Capital Benefit Services,ASSOCIATES,Associate,Unknown,https://www.capitalbenefitgroup.com/,12/20/2018,December,M. Jonathan Hensley,CEO,mjhensley@capitalbenefitservices.com,425.641.8093,"6500, 15375 SE 30th Place, Suite 380",Bellevue,98007,King,Puget Sound,Small,2,,False,False,True
-63e74c44de45,Carney Badley Spellman,ASSOCIATES,Associate,Unknown,https://www.carneybadleyspellman.com/,6/17/2025,June,Sara Kadletz,,kadletz@carneylaw.com,206.607.4122,701 5th Ave. Ste. 3600,Seattle,98104,King,Puget Sound,Mid,4,,False,False,True
-e9ea4248ef5c,Chase,ASSOCIATES,Associate,Unknown,https://www.chase.com/,6/18/2025,June,Samuel Cha,"VP, Sr. Acquisition Relationship Manager",samuel.cha@chase.com,425.757.8833,"1301 2nd Ave., Floor 24",Seattle,98101,King,Puget Sound,Small,1,,False,False,True
-4ffa3d9ac068,Clark Nuber,ASSOCIATES,Associate,Unknown,https://clarknuber.com/,12/20/2018,December,Hillary Parker,Shareholder - Audit & Assurance,hparker@clarknuber.com,425.635.4538,10900 NE 4th Street,Bellevue,98004,King,Puget Sound,Mid,5,,False,False,True
-5c9b4fc77b30,Columbia Bank,ASSOCIATES,Associate,Unknown,https://Columbia Bank | ColumbiaBank.com,12/1/2025,December,Michelle Lee,"SVP, Relationship Manager",michellelee@columbiabank.com,425.505.5853,10900 NE 4th Street,Seattle,98004,King,Puget Sound,Solo,0,,False,False,True
-8ba4871d1c72,Elevat Western Integrated Technologies,ASSOCIATES,Associate,Unknown,https://www.elevat-iot.com/,,,Adam Livesay,Founder & CRo,adam@elevat-iot.com,206.418.9572,"801 3rd Ave., Ste. 350",Seattle,98104,King,Puget Sound,Small,2,,False,False,True
-97c99b8a895f,EOS Implementer,ASSOCIATES,Associate,Unknown,https://www.eosworldwide.com/,3/7/2024,March,Matt Hansen,,matt.hansen@eosworldwide.com,615.513.3892,5020 Alki Drive,Everett,98203,Snohomish,Puget Sound,Solo,0,,False,False,True
-837bdc1c9d86,Fluxonix,ASSOCIATES,Associate,Unknown,https://fluxonix.io,May,May,Sridhar Poduri,Founder,sridhar@fluxonix.io,(425) 559-0097,2637 234th Ave NE,Sammamish,98074,King,Puget Sound,Solo,0,,False,False,True
-b6d6a3bdb32d,Garrett Engineering,ASSOCIATES,Associate,Unknown,https://gescnc.com,8/1/2025,August,Patrick Garrett,"Owner, Chief Engineer",pat@gescnc.com,630.363.1813,5693 Isabelle Lane South East,Port Orchard,98367,Kitsap,South Sound,Small,2,,False,True,True
-41231c63d11a,HD Solutions,ASSOCIATES,Associate,Unknown,https://www.hdsolutions.consulting,March,March,Josh Casson,President,josh@hdsolutions.consulting,909.855.8764,12550 120th Ave NE Unit 516,Kirkland,98034,King,Puget Sound,Solo,0,,False,False,True
-fdf986e9d99a,Heritage Bank,ASSOCIATES,Associate,Unknown,https://www.heritagebanknw.com/home/home,11/24/2025,November,Michael Tibbits,Senior Vice Presidents,michael.tibbits@heritagebanknw.com,425.467.2044,10500 NE 8th Street,Bellevue,98004,King,Puget Sound,Large,7,,False,False,True
-a6ea6ab9a48f,Hub International,ASSOCIATES,Associate,Unknown,https://www.hubinternational.com/,2/18/2026,February,Brandon Baucom,Vice President,brandon.baucom@hubinternational.com,425.698.3753,"12100 NE 195th, Ste. 200",Bothell,98011,King,Puget Sound,Solo,0,,False,False,True
-e7339ce41a80,"IBA, Inc.",ASSOCIATES,Associate,Unknown,https://ibainc.com/,3/8/2024,March,Sally Bergesen,,sally@ibainc.com,(425) 454-3052,"40 Lake Bellevue Drive, Ste. 100",Bellevue,98005,King,Puget Sound,Mid,5,,False,True,True
-600cd8856374,Impact Washington,ASSOCIATES,Associate,Unknown,,8/24/2018,August,Deloit Wolfe,,dwolfe@impactwashington.org,425.681.6798,"8227 44th Avenue West, Suite D",Mukilteo,98275,Snohomish,Puget Sound,Large,7,,False,False,False
-66142e0a3be9,Intelassist,ASSOCIATES,Associate,Unknown,https://intelassist.com/,8/21/2023,August,Will Compton,VP of Business Development,willcompton@intelassist.com,425.577.8907,26028 SE 29th Street,Sammamish,98075,King,Puget Sound,Solo,0,,False,False,True
-8861fd5b1625,Interplay (dba) BDPNetworks,ASSOCIATES,Associate,Health Trust,https://www.interplayit.com/,12/17/2024,December,Sean Place,President,sean.place@interplayit.com,206.329.6600,"16300 Christensen Road, #304",Tukwila,98188,King,Puget Sound,Solo,0,,False,False,True
-be5f9aec114d,JD Merit,ASSOCIATES,Associate,Unknown,,11/1/2022,November,Craig Dickens,CEO,craig.kickens@jdmerit.com,253.327.1493,3312 Rosedale St. NW,Gig Harbor,98335,Pierce,South Sound,Solo,0,,False,False,False
-7567296d67e5,Kocer Consulting and Engineering,ASSOCIATES,Associate,Health Trust,https://kocerconsulting.com/,5/31/2018,May,Dan Kocer,President,dkocer@kocerconsulting.com,206.528.0111,"3147 Fairview Ave. E., Ste. 100",Seattle,98102,King,Puget Sound,Small,1,,False,False,True
-60dd61480aad,Kanoa,ASSOCIATES,Associate,Health Trust,https://kanoa.ai/,1/24/2024,January,Nicole Coope,VP of Operations,nicole.coope@kanoa.ai,(602) 821-6605,1933 Norma Road NE,Tacoma,98422,Pierce,South Sound,Small,2,,False,False,True
-0589b5ebeecc,"LOOPR AI, Inc.",ASSOCIATES,Associate,Unknown,https://www.loopr.ai/,3/26/2021,March,Priyansha Bagaria,Founder | CEO,priyansha@loopr.ai,984.232.9003,"14205 SE 36th St., Suite 100",Bellevue,98006,King,Puget Sound,Small,1,,False,False,True
-65f53f8dd935,"Microgroove, LLC",ASSOCIATES,Associate,Health Trust,https://www.microgroove.com/,,,Philip Coady,President,philco@microgroove.com,425.392.7432,3020 Issaquah PIne Lake Rd. #511,Sammamish,98075,King,Puget Sound,Solo,0,,False,False,True
-5a53f46bc2d0,Microsoft,ASSOCIATES,Associate,Corporate Sponsor,https://www.microsoft.com/en-us,10/7/2026,October,Simon Floyd,GM of Manufacturing for Microsoft in the Americas,simonfloyd@microsoft.com,425.301.1750,,,,Unknown,Unknown,Mid,5,,True,False,True
-443a21487da9,NPO Systems Ltd.,ASSOCIATES,Associate,Unknown,https://www.nextplus.io/,,,Kickey Shaposhnik,CEO,mickeys@nextplus.io,416.459.2033,8 Nechalat Itzhak St.,Tel Aviv,67448,Out of State,Out of State,Small,1,,False,False,True
-65535ae515e5,Omniscape AI Inc.,ASSOCIATES,Associate,Health Trust,https://omniscape.ai//,11/5/2025,November,Kelsey Sharrigan,,kelsey@omniscape.ai,913.638.2963,"13555 SE 36th St., Ste. 100, Office 122",Bellevue,98006,King,Puget Sound,Solo,0,,False,False,True
-0de4bb59f64c,Perkins Coie LLP,ASSOCIATES,Associate,Unknown,https://perkinscoie.com/,12/20/2018,December,Rafeedah Keys,Head of Privacy & Tech Marketing,rkeys@perkinscoie.com,206.359.6822,"1201 3rd Ave., Suite 4900",Seattle,98101,King,Puget Sound,Solo,0,,False,False,True
-f7fccb60e1cf,"Prime Parking Systems, LLC",ASSOCIATES,Associate,Health Trust,https://parkwithprime.com/,,,Sandy Pusateri,CFO,sandy@parkwithprime.com,206.858.8252,3300 Maple Valley Highway,Renton,98058,King,Puget Sound,Solo,0,,False,False,True
-ae7cd4fc1497,Regence Blueshield,ASSOCIATES,Associate,Unknown,https://www.regence.com/home,,,Brady Cass,,brady.cass@regence.com,,,,,Unknown,Unknown,Mid,3,,False,False,True
-21d33f3695ee,Resultist,ASSOCIATES,Associate,Unknown,https://www.resultist.com/,,,Elizabeth Harris,President/CEO,elizabeth@resultist.com,206.361.4562,10406 NE 151st Place,Bothell,98011,King,Puget Sound,Solo,0,,False,False,True
-ff9506d208db,"Retrocausal, Inc.",ASSOCIATES,Associate,Unknown,https://retrocausal.ai/,10/19/2024,October,Zeeshan Zia,CEO,zeeshan@retrocausal.ai,660.220.8352,"17634 NE Union Hill Road, Suite 301",Redmond,98052,King,Puget Sound,Solo,0,,False,False,True
-a01f4055602a,S5 Solutions,ASSOCIATES,Associate,Unknown,https://www.s5solutions.com/,12/20/2018,December,Craig Bedward,President,craig.bedward@s5solutions.com,425.232.6277,1403 E Horizon Drive,Mukilteo,98275,Snohomish,Puget Sound,Solo,0,,False,False,True
-a8f20b2d435d,"Service Hydraulics, Inc.",ASSOCIATES,Associate,Health Trust,https://www.servicehydraulics.com/,,,Tracia Clark,Admin/Office,tracia.clark@servicehydraulics.com,253.351.6010,25 37th Street NE,Auburn,98002,King,Puget Sound,Solo,0,,False,False,True
-25c794680231,Shannon & Associates,ASSOCIATES,Associate,Unknown,https://www.shannon-cpas.com/,8/14/2024,August,Julie Courtney,Partner & CEO,JCourtney@Shannon-CPAs.com,253.852.8500,"1851 Central Place S., Suite 225",Kent,98030,King,Puget Sound,Mid,3,,True,False,True
-7e038a3b1002,Signify Technology Corp.,ASSOCIATES,Associate,Unknown,https://www.getsignify.com/,1/8/2026,January,Martin Ramirez,Co-Founder & CEO,martin@getsignify.com,206.601.6956,PO box 1347,Ferndale,98248,Whatcom,Northwest WA,Small,2,,False,False,True
-4a304f31160f,Sound Business Brokers,ASSOCIATES,Associate,Unknown,https://soundbusinessbrokers.com/,11/17/2025,November,Charles Morningstar,Broker,charles@soundbusinessbrokers.com,253.606.3788,3739 Griffin Lane SE,Olympia,98501,Thurston,South Sound,Small,2,,False,False,True
-c516e0c6bf47,Strategic Financial Advisors LLC,ASSOCIATES,Associate,Unknown,https://strategicfinancialadvisorsllc.com/,9/17/2024,September,Robert Burger,Principal,rburger@strategicfinancialadvisorsllc.com,425.736.6297,1823 145th Place SE,Bellevue,98007,King,Puget Sound,Small,1,,False,False,True
-c6a8b9584551,Tactile,ASSOCIATES,Associate,Health Trust,https://tactileinc.com/,11/20/2025,November,M-Jo Baker,Accounting Manager,accounting@tactileinc.com,206.448.5550,"2013 4th Ave., Ste. 402",Seattle,98121,King,Puget Sound,Small,1,,False,False,True
-b4c2e4f62d6c,TASC (dba) Technical & Assembly Services Corp.,ASSOCIATES,Associate,Health Trust,https://tasc-wa.com/,8/12/2026,August,Rikki Nelson,Accounting Manager,tascacct@tasc-wa.com,206.682.2967,2222 N Pacific Street,Seattle,98103,King,Puget Sound,Small,1,,False,False,True
-58589230e4fa,TPG (dba) Throughput Group),ASSOCIATES,Associate,Unknown,https://throughputgroup.com/,8/24/2018,August,Juan Lopez,Managing Director,jdl@throughputgroup.com,734.945.5756,18548 43rd Ave. NE,Lake Forest Park,98155,King,Puget Sound,Solo,0,,False,False,True
-4a8ec09a810c,Trafton Manufacturing Group,ASSOCIATES,Associate,Unknown,https://traftonmg.io,,,David Heeg,CEO / Founder,david.heeg@traftonmg.io,360.468.0532,2817 Wetmore Ave.,Everett,98201,Snohomish,Puget Sound,Solo,0,,False,False,True
-0a4f997f8d2f,Transition 360,ASSOCIATES,Associate,Unknown,https://www.transition360.com/,11/1/2023,November,Dan Stone,Principal,danstone@transition360.com,206.321.2774,"40 Lake Bellevue Drive, Suite100A",Bellevue,98005,King,Puget Sound,Small,1,,False,False,True
-8c9b4e9ca55d,Truss Faber PC,ASSOCIATES,Associate,Unknown,https://www.trussfaber.com/,3/17/2025,March,John Theiss,Attorney,john@trussfaber.com,206.795.8000,"1126 34th Ave., Ste. 312",Seattle,98122,King,Puget Sound,Small,1,,False,False,True
-053fac80e958,WaFd Bank (dba) Washington Federal Bank,ASSOCIATES,Associate,Unknown,https://www.wafdbank.com/,,,Andrew Snavely,Relationship Manager,andrew.snavely@wafd.com,206.264.6835,425 Pike Street,Seattle,98101,King,Puget Sound,Small,2,"Worldscape Technology, Inc.",False,False,True
-497634e31396,Xemelgo,ASSOCIATES,Associate,Unknown,https://xemelgo.com/,,,Rich Rogers,CEO,rich.rogers@xemelgo.com,617.455.8832,2809 232nd Street SE,Bothell,98021,King,Puget Sound,Large,6,,False,False,True
-c42b09b0db5b,Aerospace Vendors,AFFILIATES,Affiliate,Unknown,https://topdrawermedia.com/,IN-KIND,,Dean Cameron,,dean@topdrawermedia.com,,,,,Unknown,Unknown,Solo,0,,False,False,True
-d2a2942c9c37,AJAC (dba) AJAC - Advanced Manufacturing Apprenticeships,AFFILIATES,Affiliate,Unknown,https://www.ajactraining.org/,7/9/2025,July,Lynn Strickland,Executive Director,lstrickland@ajactraining.org,206.456.8861,"6811 S. 204th St., Suite 380",Kent,98032,King,Puget Sound,Solo,0,,False,False,True
-4f625a2a3846,Apprenti (dba) WTIA Workforce Institute,AFFILIATES,Affiliate,Health Trust,https://apprenticareers.org/,12/9/2024,December,Osama Shams Eddin,Finance Director,osama@apprenticareers.org,206.707.7969,"1595 NW Gilman Blvd., Suite 6B",Issaquah,98027,King,Puget Sound,Mid,4,,False,False,True
-d121ceacd6c4,Center of Excellence,AFFILIATES,Affiliate,Unknown,,IN-KIND,,,,,,,,,Unknown,Unknown,Unknown,0,,False,False,False
-08b311c4825e,Clover Park Technical College,AFFILIATES,Affiliate,Unknown,https://www.cptc.edu/,3/31/2018,March,Claire Korschinowski,Dean of Instruction,claire.korschinowski@cptc.edu,253.589.5516,4500 Steilacoom Blvd. SW,Lakewood,98499,Pierce,South Sound,Large,6,,False,True,True
-98e57b1f69cc,Edmonds Community College,AFFILIATES,Affiliate,Unknown,,8/24/2018,August,Jean Hernandez,,jean.hernandez@email.edcc.edu,425.640.1515,20000 68th Avenue W,Lynnwood,98087,Snohomish,Puget Sound,Solo,0,,False,False,False
-10f8e3c5fc5b,FIRST Robotics,AFFILIATES,Affiliate,Unknown,https://firstwa.org/,IN-KIND,,Erica Beckstrom,Executive Director,ericab@firstwa.org,,,,,Unknown,Unknown,Small,1,,False,False,True
-11543c2ca806,JBLM (Joint Base Lewis McChord / M2M),AFFILIATES,Affiliate,Unknown,,IN-KIND,,,,,,,,,Unknown,Unknown,Unknown,0,,False,False,False
-185841949a0b,Machinists Instittue,AFFILIATES,Affiliate,Unknown,https://www.machinistsinstitute.org/,9/15/2021,September,Shana Peschek,Executive Director,shana.peschek@machinistsinstitute.com,206.764.0326,9125 15th Place South,Seattle,98108,King,Puget Sound,Small,2,,False,False,True
-889d8d44a924,Navy Region Northwest,AFFILIATES,Affiliate,Unknown,,IN-KIND,,,,,,,,,Unknown,Unknown,Unknown,0,,False,False,False
-1b4b584dc315,Northwest Trade Adjustment Assistance Center (NW TAAC),AFFILIATES,Affiliate,Unknown,https://nwtaac.org/,2/28/2018,February,David Holbert,Executive Director,david@nwtaac.org,503.927.2400,1200 Westlake Avenue N,Seattle,98109,King,Puget Sound,Solo,0,,False,False,True
-5cbef78f2306,Pierce County Economic Development,AFFILIATES,Affiliate,Corporate Sponsor,https://www.piercecountywa.gov/,11/22/2024,November,Kevin Glegg,Special Assistant to the Executive for Business Services,kevin.clegg@piercecountywa.gov,253.798.6150,"1501 Market Street, Ste. 100",Tacoma,98402,Pierce,South Sound,Small,2,,False,False,True
-84da72b97f59,PNAA,AFFILIATES,Affiliate,Unknown,https://www.pnaa.net/,,,Nikki Malcom,CEO & Executive Director,nmalcom@pnaa.net,425.885.0290 x107,,,,Unknown,Unknown,Solo,0,,False,False,True
-ed4968e2efb4,US Coast Guard,AFFILIATES,Affiliate,Unknown,,IN-KIND,,,,,,,,,Unknown,Unknown,Unknown,0,,False,False,False
-706634a31d79,Washington Business Alliance - Plan Washington,AFFILIATES,Affiliate,Unknown,https://wabusinessalliance.org/,,,David Giuliani,Co-Founder & Board Director,david@wabusinessalliance.org,2064415101,,,,Unknown,Unknown,Solo,0,,False,False,True
-e8397863563b,Washington National Guard,AFFILIATES,Affiliate,Unknown,,IN-KIND,,,,,,,,,Unknown,Unknown,Unknown,0,,False,False,False
-b9af665f4e20,WiM (Women in Manufacturing),AFFILIATES,Affiliate,Unknown,,IN-KIND,,,,,,,,,Unknown,Unknown,Unknown,0,,False,False,False
-336e9d8b78e4,Yakima County Development Association,AFFILIATES,Affiliate,Unknown,https://chooseyakimavalley.com,IN-KIND,,Jonathan Smith,Executive Director,jon@ycda.com,509.575.1140,PO Box 1387,Yakima,09807,Yakima,Central/Eastern WA,Solo,0,,False,False,True
+company_name,category,health_trust,renewal_month,website,main_contact,email_address,physical_address,city,zip_code
+Member Type,Unknown,Health Trust,,https://Website URL,Last Name,Address,ZIP,,
+Joint Access - Winery,Unknown,Yes,,https://www.bottlethreesixty.com,Adams,"2401 4th Ave., Ste 850",98121,,
+Manufacturer,Unknown,Yes,,https://www.lcnw.com,Agtuca,3205 C Street NE,98002,,
+Joint Access - Winery,Unknown,Yes,,https://www.elevenwinery.com,Albee,12976 Roe Rd Ne,98110-1204,,
+Manufacturer,Unknown,Yes,,https://perellion.com,Allen,"3616 South Road, Ste. C1",98275,,
+Manufacturer,Unknown,Unknown,,https://www.glant.com,Almont,"3031 S. Walden St., Ste. 200",98144,,
+Manufacturer,Unknown,Unknown,,https://www.edcometalfabricators.com,Alway,14508 Ovenell Road,98273,,
+Joint Access - Winery,Unknown,Yes,,https://www.anichecellars.com,Anderson,71 Little Buck Creek Rd,98651,,
+Joint Access - Winery,Unknown,Yes,,https://www.foundryvineyards.com,Anderson,1111 Abadie St,99362,,
+Manufacturer,Unknown,Unknown,,https://www.mckinleysprings.com,Andrews,1201 Alderdale Rd,99350,,
+Associate,Unknown,Unknown,,https://www.loopr.ai,Bagaria,14205 SE 36th St,98006,,
+Associate,Unknown,Yes,,https://www.tactileinc.com,Baker,2013 4th Ave. Ste. 402,98121,,
+Associate,SUPPLY CHAIN,Unknown,,https://hubinternational.com,Baucom,"12100 NE 195th, Ste. 200",98011,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.pugetbindery.com,Bayless,7820 S 228Th St,98032,,
+Affiliate,SUPPLY CHAIN,Unknown,,https://www.firstwa.org,Beckstrom,22426 72ND AVE S,98032,,
+Associate,SUPPLY CHAIN,Unknown,,https://s5solutions.com,Bedward,1403 E Horizon Drive,98275,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.aquarianaudio.com,Bevis,5677 Patricia Lane,98221,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,,https://www.dunhamcellars.com,Blair,150 E Boeing Ave,99362,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.bonanzapress.com,Bond,19860 141st Pl NE,98072,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.impressionsworldwide.com,Bonnett,11369 Higgins Airport Way,98233,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.dundonmotorsports.com,Bopp,"10421 Burnham Dr. NW, Suite 6E",98332,,
+Joint Access - Brewery,SUPPLY CHAIN,Yes,,https://www.loowitbrewing.com,Bray,507 Columbia Street,98660,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.playeveryware.com,Brown,"5601 6th Ave. S., Ste. 378",98108,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.gardico.com,Brown,4912 14TH AVE NW,98107,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.seakamp.com,Bruggenkamp,3985 Hammer Dr,98226,,
+Manufacturer,SUPPLY CHAIN,Unknown,Jan,https://www.rottlermfg.com,Budner,8029 S 200th Street,98032,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.obmfg.com,Budvarson,1600 SW 43rd St,98057,,
+Associate,SUPPLY CHAIN,Unknown,,https://strategicfinancialadvisorsllc.com,Burger,1823 145th Place SE,98007,,
+Affiliate,SUPPLY CHAIN,Unknown,,https://www.woundedwarriorproject.org,Burgess,3315 South 23rd Street,98405,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.wowbaking.com,Bush,1607 45th ST,98390,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,,https://www.andrewwill.com,Camarda,12526 SW Bank Rd,98070,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.cannonmch.com,Cannon,1204 S. Clodfelter Rd,99338,,
+Joint Access - Supply Chain,SUPPLY CHAIN,Yes,,https://www.confidenceanalytics.com,Cantrell,14797 NE 95TH ST,98052,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.mobmerch.com,Casalino,2611 Henson Road,98273,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.hdsolutions.consulting,Casson,12550 120th Ave NE Unit 516,98034,,
+Manufacturer,SUPPLY CHAIN,Yes,,,Centers,1170 Andover Park West,98188,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.chase.com,Cha,1301 2nd Ave.,98101,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.advancedpowdercoatingnw.com,Chambers,5421 Guide Meridian,98226-9771,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.kooapps.com,Chang,"15015 Main Street, Suite 200",98007,,
+Manufacturer,SUPPLY CHAIN,Yes,,,Chapin,2629 Henson Road,98273,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.fabtechtruckbeds.com,Chase,9587 GREN RD,98233,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.arch-elements.com,Clark,2126 E Bakerview Rd,98226,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.servicehydraulics.com,Clark,25 37th Street NE,98002,,
+Affiliate,SUPPLY CHAIN,Unknown,,http://www.piercecountywa.gov/edd,Clegg,"1501 Market Street, Ste. 100",98402,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.microgroove.com,Coady,3020 Issaquah Pine Lake Road #511,98075,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.Freezerworks.com,Codd,6608 216th St. SW,98043,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.seattleshirt.com,Cohen,6680 163rd Place SE,98006,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.intelassist.com,Compton,PO Box 1431,98027,,
+Associate,SUPPLY CHAIN,Unknown,Jul,https://www.Shannon-CPAs.com,Courtney,1851 Central Place S,98030,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://cirruscycles.com,Cousley,"3926 Irongate Road, Suite D",98226,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.crabtreebrands.com,Crabtree,19225 8th Ave NE,98370,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.moltenworksglass.com,Creekmore,"12602 NE 178th St., Ste. A",98072,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.tirriddis.com,Crowell,822 Main Street,99350,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.lecole.com,Crowley,41 Lowden School Rd,99360,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.chuckanutbaydistillery.com,Czopor,1200 Harris Avenue,98225,,
+Joint Access - Brewery,JOINT ACCESS - CANNABIS,Yes,,https://www.20cornersbrewing.com,Davis,14148 NE 190th St,98072,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.westernintech.com,Davis,7651 South 190th Street,98032,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.moldedgroup.com,Dean,5555 8th Street East,98424,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.harborislandmachine.com,DeFaccio,3431 11th Ave. S.W.,98134,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.MeritInvestmentBank.com,Dickens,3312 Rosedale St NW,98335,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.diversstreetrods.com,Divers,30229 US 2,98294,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.cayusevineyards.com,Dorland,17 E Main St,99362-1921,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.cascadeicewater.com,Dunn,7620 Hardeson Rd,98203-6286,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.skillsinc.com,Dunnington,715 30th Street NE,98002,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.boxmaker.com,Duvall,6412 S. 190th Street,98032,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://blindtigerdesign.com/,Eagan,417 NW 65th St.,98117,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://redwoodoutdoors.com,Elam,20730 72nd Ave. S,98032,,
+Manufacturer,SUPPLY CHAIN,Yes,,,Enquist,313 W. Lincoln Road,99343,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.fidalgocoffee.com,Evans,856 North Hill Boulevard,98233,,
+Joint Access - Brewery,SUPPLY CHAIN,Yes,,https://www.bainbridgebeer.com/,Everett,9415 Coppertop Loop NE,98110,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.pacmet.com,Fallen,P.O. Box 399,98035-0399,,
+Affiliate,SUPPLY CHAIN,Unknown,,https://www.seakingwdc.org,Fallihee,2003 Western Ave,#250,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.heritagedistilling.com,FLICK,1201 10th Ave,98122,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.airmark.com/,Friend,10001 Lake City Way NE,98125,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.uniteccorp.com,Friesen,358 Upland Dr,98188-3893,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.accesslaser.com,Fulton,2211 W Casino Rd,98204,,
+Joint Access - Brewery,JOINT ACCESS - CANNABIS,Yes,,https://drubru.com,Gale,"10 Pass Life Way, Ste. 3",98068,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://gescnc.com,Garrett,5693 Isabelle Lane South East,98367,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.solutionsinplastic.com,Gibson,7837 Custer School Road,98240,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.pacwestern.com,Ginter,7700 2Nd Ave S,98108,,
+Affiliate,JOINT ACCESS - CANNABIS,Unknown,,https://www.wabusinessalliance.org,Giuliani,2401 ELLIOTT AVE,98121,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,,Glant,,,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.gormanwinery.com,Gorman,19501 144th Ave NE,98072,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.lamartech.com,Grafenauer,14900 40th Ave NE,98271,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://fastsigns.com,Gray,2902 Rucker Ave.,98201,,
+Joint Access - Brewery,SUPPLY CHAIN,Yes,,https://www.islandhoppinbrewery.com,Gray,33 HOPE LN,98245,,
+Joint Access - Brewery,JOINT ACCESS - CANNABIS,Yes,,https://urbanfamilybrewing.com,Gundel,1100 NW 51st. St.,98107,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.waterdropsystems.com,Gundermann-Jones,7925 Sweet Iron Court SE,98501,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.colorgraphicswa.com,Gustafson,2540 Crites St,98512,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.javajavacoffee.com,Habenicht,23130 224th Place SE,98038,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.americanstructures.com,Hagen,1801 132nd Ave E,98390,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,Mar,https://www.tritecmfg.com,Haller,6915 South 234th St,98032-2920,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.buyken.com,Hanela,1216 4th Avenue North,98032,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.analogcoffee.com,Hanlon,235 Summit Ave. East,98102,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://eosworldwide.com/matt-hansen,Hansen,5020 Alki,98203,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://ammanufacturinginc.com,Harjo,2283 Cole Street,98022,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.resultist.com,Harris,11335 NE 122nd Way,98034-6933,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.compressorsnw.com,Hayley,"5800 188th Street SW, Suite B",98037,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://traftonmg.com,Heeg,21215 252ND ST NE,98223,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,Jan,https://www.renehersecycles.com,Heine,2442 Nw Market St,98107-4137,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.iclick.com,Heitland,3931 1st Ave. S.,98134,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.naturalpetfoodgroup.com,Henniger,14003 Brae Burn Road,98826-9590,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.capitalbenefitservices.com,Hensley,"15375 SE 30th Pl,",98007,,
+Affiliate,JOINT ACCESS - CANNABIS,Unknown,,https://www.edmonds.edu/,Hernandez,20000 68th Ave W,98036,,
+Joint Access - Supply Chain,JOINT ACCESS - CANNABIS,Yes,,https://www.lba-inc.com,Hernandez,18842 13th Pl S,98148,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.meyersign.com,Hilsinger,2608 Old Highway 99 South,98273,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://hoffman-mfg.com,Hoffman,382477 Highway 95,99128,,
+Affiliate,JOINT ACCESS - CANNABIS,Unknown,,https://www.nwtaac.org,Holbert,1200 Westlake Ave N,98109,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://goldenharvestinc.com,Holden,11944 Westar Lane,98233,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,Jan,https://www.qualstamp.com,Holland,1907 137th Ave. E,98390,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.saviahcellars.com,Hopwood,1979 J B George Road,99362,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.warmoth.com,Hosfetl,10013 160th St E,98375,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.iflyairplanes.com,Hsueh,,,,
+Joint Access - Brewery,JOINT ACCESS - CANNABIS,Yes,,https://futureprimitivebeer.com,Hudgins,4425 4th Ave. NE,98105,,
+Joint Access - Brewery,JOINT ACCESS - CANNABIS,Unknown,,https://fivedollarranchbeer.com,Hulett,3557 Peppers Bridge Road,99362,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.lotusunited.com,Hunt,7511 Greenwood Ave. N. #103,98103,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://vallationouterwear.com,Jackson,PO Box 1030,98370,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.caffeumbria.com,Jackson,8620 16th Ave. S,98108,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.americamedic.com,Jagga,8321 219th St. SE,98072,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.spincycleyarns.com,James,2135 Queen Street B,98225,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.mycaf.com,Johnson,23175 224th Pl SE,98038,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,,https://www.sofhcellars.com,Johnson,1959 JB George Road,99362,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.recycledcycles.com,Jones,1007 NE Boat Steet,98105,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.jamiejoseph.com,Joseph,2401 Harbor Ave. SW,98126,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.carneybadleyspellman.com,Kadletz,701 5th Ave. Ste. 3600,98104,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://americanrifle.com,Karagias,"11527 Cyrus Way, Ste. 3",98275,,
+Manufacturer,SUPPLY CHAIN,Yes,Mar,https://labelsplus.com,Kelp,2407 106th St SW,98204,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.yakimamachine.com,Kensok,1120 1/2 North Avenue,98902,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.perkinscoie.com,Keys,"1201 3rd Ave., Suite 4900",98101,,
+Affiliate,SUPPLY CHAIN,Unknown,,https://www.aerospacevendors.com,Kidd,"203 N Washington St,",99201,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.aeroforminc.com,Kindler,9421 59th AVE NE,98223,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.northwestled.com,King,2428 Old Highway 99 S RD,98273,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.kocerconsulting.com,Kocer,3147 Fairview Avenue East,98102,,
+Affiliate,SUPPLY CHAIN,Unknown,,http://cptc.edu/careers,Korschinowski,4500 Steilacoom Blvd SW,98499-4004,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.torkliftcentral.com,Kostenko,315 N Central Ave.,98032,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.ibainc.com,Kovsky,40 Lake Bellevue Drive,98005,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.nwsigns.com,Lazaro,17201 Beaton Road SE,98272,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.columbiabank.com,Lee,,,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.loveyourstereo.com,Lenox,512 Strander Blvd,98188,,
+Joint Access - Winery,JOINT ACCESS - PNAA,Yes,,https://www.maryhillwinery.com,Leuthold,9774 Hwy 14,98620,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,,https://www.arww-modularrf.com,Lewis,21222 30th Dr SE,98021,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://lyndentribune.com; lyndenprintco.com,Lewis,113 6th St.,98264,,
+Joint Access - Winery,JOINT ACCESS - PNAA,Yes,,https://delillecellars.com,Lindamood,14300 NE 145th Street,98072,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.yst-semiconductor.com,Lindberg,18110 SE 34th Street,98683,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://www.elevat-iot.com,Livesay,801 3rd Ave,98101,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://www.throughputgroup.com,Lopez,18548 43rd Ave. NE,98155,,
+Joint Access - Winery,JOINT ACCESS - PNAA,Yes,,https://www.cascadecliffs.com,Lorkowski,8866 STATE RT 14,98673,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.mikelull.com,Lull,12031 Northup Way,98005,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.thenorthernlight.com,Luna,225 Marine Drive Suite 200,98230,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Unknown,,https://www.cairdeaswinery.com,Lybecker,31 Winesap Ave.,98831,,
+Joint Access - Brewery,JOINT ACCESS - CANNABIS,Yes,,https://www.headlessmumbybrewing.com,Maffeo,232 Division St NW,98502,,
+Affiliate,JOINT ACCESS - CANNABIS,Unknown,,https://www.pnaa.net,Malcom,16625 Redmond Way,98052,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.enclume.com,Manji,24 Colwell St,98339,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.squiresmachine.com,Martin,19510 21st Ave. W,98036,,
+Manufacturer,SUPPLY CHAIN,Unknown,,,Martin,,,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.polenta.net,Mascio,19255 80th Ave S,98032,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://printery.com,Mason,631 Tyler Street,98368,,
+Joint Access - Supply Chain,JOINT ACCESS - CANNABIS,Unknown,,https://www.aimbridgegreenenergy.com,Mata,"22314 70th Ave. W., Unit 4",98043,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://www.technigrip.com,Matthaei,1118 E D St,98421,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.norstarind.com,Matthiesen,2302 A STREET SE,98002,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,,McCutcheon,3925 134th St. NE,98271,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.pioneeraerofab.com,McCutcheon,15259 Flightline Rd,98233-3624,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://tahomamfg.com/,McNary,4901 Center Street,98409,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.joesgaragecoffee.com,Melonas,20232 72nd Ave S,98032,,
+Manufacturer,SUPPLY CHAIN,Unknown,,,Member,,,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://lighthouseuniform.com,Meyerson,1532 15th Ave. W.,98119,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.id-integration.com,Moe,13024 Beverly Park Road,98275,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.newtechind.com,Morken,7911 44th Ave. W.,98275,,
+Associate,SUPPLY CHAIN,Unknown,,https://soundbusinessbrokers.com,Morningstar,3739 Griffin Lane SE,98501,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://customconesusa.com,Mostoller,"4101 Oakesdale Ave SW, Suite 200",98057,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.tlgaerospace.com,Muenzberg,1700 Westlake Ave N,98109,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,Jul,https://www.wcsofww.com,Myrick,173 Middle Waitsburg Rd. Bldg. C Ste. 120,99362,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.corvusenergy.com,Nancarrow,300 Harris Ave.,98225,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.stratusauto.com,Narisawa,19207 101st Pl SE,98055,,
+Associate,SUPPLY CHAIN,Unknown,,https://tasc-wa.com,Nelson,2222 N Pacific Street,98103,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.valeriemadison.com,Nethery,1422 34th Ave.,98122,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.metalsolutionsllc.com,Northey,6259 Airport Way South,98108,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.bmtus.com,Noteboom,14532 169TH DR SE,98272,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.olsonbakingco.com,Olson,6416 204th St Sw,98036-5972,,
+Joint Access - Brewery,SUPPLY CHAIN,Unknown,,https://www.washingtonbrewersguild.org,Olson,1801 Birchfield Rd,98901,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.qrind.net,Olson,19109 63rd Ave. NE #3,98223,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://nextplus.io/,Pagi,8 Nechalat Itzhak St.,,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,,https://remotecontroltech.com,Pardee,14756 NE 95th Street,98052,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://www.clarknuber.com,Parker,"10900 NE 4th Street,",98004,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,,https://steeler.com,Parton,10023 MLK Jr. Way South,98059,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.anchorheadcoffee.com,Paulson,"1600 7th Ave., Ste. 105",98101,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,Aug,https://avlabsonline.com,Pegram,64 N Broadway Ave.,99344,,
+Affiliate,JOINT ACCESS - PNAA,Unknown,,https://www.machinistsinstitute.org,Peschek,9125 15th Pl S,98108,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,,https://www.lostlakegames.com,Phinney,"600 1st Ave. Ste. 102, #1122",,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.membrion.com,Pickett,3257 17th Ave W,98119,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://interplayit.com,Place,16300 Christensen Road #304,98188,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://fluxonix.io,Poduri,2637 234th Ave NE,98074,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.fairislebrewing.com,Pogue,936 NW 49th St.,98107,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://www.bofaml.com,Prokop,1201 Pacific Ave,98402,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://www.parkwithprime.com,Pusateri,3300 Maple Valley Highway,98058,,
+Associate,JOINT ACCESS - PNAA,Unknown,Mar,https://www.getsignify.com,Ramirez,PO Box 1347,98248,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.mid-mountain.com,Reimbold,5602 - 2nd Ave S,98108,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,,https://www.islandmachineinc.com,Reutimann,1303 E Casino Rd,98203,,
+Joint Access - Brewery,JOINT ACCESS - PNAA,Yes,,https://www.varietalbeer.com,Roberts,416 E Edison Ave,98944,,
+Joint Access - Brewery,JOINT ACCESS - PNAA,Yes,,https://www.bellevuebrewing.com,Robertson,12190 NE District Way,98005,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://www.Xemelgo.com,Rogers,3600 136th Pl SE,98006,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,,https://www.puyalluptribalenterprises.com,Root,1409 Alexander Ave E.,98424,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://www.andonpoint.com,Root,"5101 14th Ave. NW, Ste. 200 #508",98107,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.rothenbuhlereng.com,Rothenbuhler,PO Box 708,98284,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.sugiyo.com,Ruiz,3200 T Avenue,98221,,
+Associate,JOINT ACCESS - PNAA,Unknown,,https://kanoa.ai,Russem,1933 Norma Road NE,98422,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.norplexinc.com,Sanford,111 3RD STREET NW,98001,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,Mar,https://www.teamcatalynt.com,Santos,22817 102nd Place,98020,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.holylamborganics.com / www.soaringheart.com,Schaefer,104 W. Pine St.,98568,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.nicholsbros.com,Schreeder,20209 Broadway Ave,98296,,
+Affiliate,JOINT ACCESS - PNAA,Unknown,,https://www.apprenticareers.org,Shams Eddin,"1595 NW Gilman Blvd., Suite 6B",98027,,
+Associate,JOINT ACCESS - PNAA,Yes,,http://worldscape.ai/,Sharrigan,"15809 Bear Creek Parkway, Suite 130",98052,,
+Associate,JOINT ACCESS - PNAA,Yes,,https://omniscape.ai,Sharrigan,"13555 SE 36th St., Ste. 100, Office 122",98006,,
+Manufacturer,JOINT ACCESS - PNAA,Unknown,,https://www.masterpress.net,Shigeno,10717 Midvale Ave. N,98133,,
+Manufacturer,JOINT ACCESS - PNAA,Yes,,https://www.shareway.com,Shumway,2526 E St. NE,98002,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.sirspeedy.com/tacomawa050,Slease,,98409,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.structurewines.com,Slosar,888 Western Ave. #1312,98041,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.svbest.com,Smith,PO Box 2328,98273,,
+Affiliate,JOINT ACCESS - CANNABIS,Unknown,,https://chooseyakimavalley.com,Smith,PO Box 1387,98907,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.impactwashington.org,Sowards,11812 North Creek Parkway,98011,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,Mar,https://www.sterlitech.com,Spatz,4620 B St NW,98001,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.awestindustries.com,Standerfer,3528 E Desmet Ave.,99202-4517,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,https://questech.com,Staudacher,509 E Stanley Street,98252,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.thewinemakersreserve.com,Steed,15902 WOODINVILLE-REDMOND RD NE,98072,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://erinbakers.com/,Stephens,427 Ohio Street,98225,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.colorcraftinc.com,Stewart,1130 Andover Park E,98188,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.transition360.com,Stone,1380 112th Ave NE,98004,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.olympiacoffee.com,Stormskak,P.O. Box 7,98507,,
+Affiliate,JOINT ACCESS - CANNABIS,Unknown,,https://www.ajactraining.com,Strickland,"6811 S 204th St., Suite 380",98032,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.threadygoods.com,Suboh,309 S. Cloverdale Street,98108,,
+Manufacturer,JOINT ACCESS - CANNABIS,Unknown,,,Test,,,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.tntaerospace.com,Theisen,285 West Garfield Street,98295,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.trussfaber.com,Theiss,1126 34th Ave. St. 312,98122,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.heritagebank.com,Tibbits,10500 NE 8th Street,98004,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,,Titterton,1102 Dell Ave.,99362,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.arborcrest.com,van Loben Sels,4705 N Fruit Hill Road,99217,,
+Associate,SUPPLY CHAIN,Unknown,,https://appsjack.com,Veal,6206 West Shore Road,98221,,
+Manufacturer,SUPPLY CHAIN,Unknown,,,Walden,329 West Columbia Dr,99336,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.printcoinc.com,Walter,"32 G Street NW, Suite A",98001,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://lightel.com,Wang,"2210 Lind Ave. SW, Ste. 100",98057,,
+Manufacturer,SUPPLY CHAIN,Unknown,,,Wang,9623 162nd Ave NE,98052,,
+Affiliate,SUPPLY CHAIN,Unknown,,http://home.army.mil/lewis-mcchord,Watson,Joint Base Lewis-McChord,98433,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.finalreveng.com,Webb,"123 E Johnson Ave., Suite 2",98816,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.thefoundryclothing.com,Wedmore,411 S. Dawson Street,98108,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,,https://www.pattersoncellars.com,West,14505 148th Ave NE,98072,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://rillfoods.com,Wheatley,11442 N Thorp Hwy,98496,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.regence.com,Whelham,1501 Market St,98402,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,,https://thewallsvineyards.com,White,1015 W. Pine Street,99362,,
+Manufacturer,SUPPLY CHAIN,Yes,Mar,https://www.pacificsportswear.com,Winward,10731-A A ST S,98444,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,,https://www.waldenselections.com,Wohlers,4811 Airport Way S.,98108,,
+Joint Access - Winery,JOINT ACCESS - CANNABIS,Yes,,https://www.thurstonwolfe.com,Wolfe,588 Cabernet Court,99350,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://www.uid2go.com,Wright,1501 15th St NW,98001,,
+Associate,JOINT ACCESS - CANNABIS,Unknown,,https://www.bpcpa.com,Wright,11100 NE 8th St,98004,,
+Manufacturer,JOINT ACCESS - CANNABIS,Yes,,https://firstardental.com,Yee,18915 E Valley Highway,98032,,
+Manufacturer,SUPPLY CHAIN,Unknown,,https://www.alliancepackaging.net,Younger,1000 SW 43rd St,98057,,
+Joint Access - Winery,SUPPLY CHAIN,Yes,,https://www.winemakersdepot.com,Youngers,10940 Littlerock Road SW,98512,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.beliefagency.com,Yu,4611 11th Ave. NW,98107,,
+Manufacturer,SUPPLY CHAIN,Yes,,https://www.tigercustom.com,Zaharias,1752 NW Market St. #609,98107,,
+Associate,SUPPLY CHAIN,Unknown,,https://www.retrocausal.ai,Zia,4176 148th Avenue NE,98052,,
