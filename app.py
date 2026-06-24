@@ -6,13 +6,35 @@ from datetime import datetime
 from typing import Any
 
 import pandas as pd
-import plotly.express as px
 import streamlit as st
+from datetime import datetime
 
-from src.constants import MONTH_NAMES
-from src.data_loader import load_members
-from src.insights import Insight, generate_insights
+# ============================================================
+# CLEAN DATA LOADER (replaces old legacy parser)
+# ============================================================
 
+@st.cache_data(ttl=60)   # Cache for 60 seconds so Refresh button works nicely
+def load_members():
+    """Load the clean members.csv directly. Very reliable."""
+    try:
+        df = df = load_members()
+        return df
+    except FileNotFoundError:
+        st.error("❌ members.csv not found in the data/ folder.")
+        return pd.DataFrame()
+    except Exception as e:
+        st.error(f"Error loading members.csv: {e}")
+        return pd.DataFrame()
+
+
+def get_last_updated():
+    """Show when the data was last refreshed."""
+    try:
+        import os
+        ts = os.path.getmtime("data/members.csv")
+        return datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M")
+    except:
+        return "unknown"
 st.set_page_config(
     page_title="CAMPS Member Dashboard",
     page_icon="📊",
@@ -755,8 +777,12 @@ with main_col:
     with header_col2:
         st.markdown(f"**Showing:** {len(sidebar_filtered)} / {len(df)} members")
     with header_col3:
-        if st.button("Refresh Data", type="secondary", use_container_width=True, help="Reload the latest CSV from disk"):
-            refresh_data()
+        if st.button("🔄 Refresh Data"):
+    st.cache_data.clear()           # Clear cache so it re-reads the file
+    st.rerun()                      # Force the app to reload
+
+# Show last refresh time (optional but useful)
+st.caption(f"Data last updated: {get_last_updated()}")
 
     if not selection_df.empty:
         st.markdown(

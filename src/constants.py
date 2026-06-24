@@ -11,6 +11,42 @@ MEMBER_FILE_CANDIDATES = [
     DATA_DIR / "Master Member List - 2026 Master List.csv",
 ]
 
+# Flat monthly export from the master spreadsheet (header row required).
+NEW_MASTER_COLUMNS = {
+    "Company Name": "member_name",
+    "Category": "category",
+    "Health Trust": "membership_type",
+    "Renewal Month": "renewal_month",
+    "Website": "website",
+    "Main Contact": "primary_contact",
+    "Email Address": "email",
+    "Physical Address": "address",
+    "City": "city",
+    "Zip Code": "zip",
+}
+
+CATEGORY_ALIASES = {
+    "manufacturers": "MANUFACTURERS",
+    "manufacturer": "MANUFACTURERS",
+    "joint access - cannabis": "JOINT ACCESS - CANNABIS",
+    "joint access cannabis": "JOINT ACCESS - CANNABIS",
+    "cannabis": "JOINT ACCESS - CANNABIS",
+    "joint access - wine association": "JOINT ACCESS - WINE ASSOCIATION",
+    "joint access - wine": "JOINT ACCESS - WINE ASSOCIATION",
+    "wine": "JOINT ACCESS - WINE ASSOCIATION",
+    "joint access - brewing": "JOINT ACCESS - BREWING",
+    "brewing": "JOINT ACCESS - BREWING",
+    "joint access - pnaa": "JOINT ACCESS - PNAA",
+    "pnaa": "JOINT ACCESS - PNAA",
+    "joint access - nima": "JOINT ACCESS - NIMA",
+    "nima": "JOINT ACCESS - NIMA",
+    "supply chain": "SUPPLY CHAIN",
+    "associates": "ASSOCIATES",
+    "associate": "ASSOCIATES",
+    "affiliates": "AFFILIATES",
+    "affiliate": "AFFILIATES",
+}
+
 STANDARD_COLUMNS = [
     "member_id",
     "member_name",

@@ -11,12 +11,14 @@ from typing import Any
 import pandas as pd
 
 from src.constants import (
+    CATEGORY_ALIASES,
     CITY_TO_COUNTY,
     DATA_DIR,
     INDUSTRY_MAP,
     MEMBER_FILE_CANDIDATES,
     MEMBERSHIP_TYPES,
     MONTH_NAMES,
+    NEW_MASTER_COLUMNS,
     REGION_MAP,
     SECTION_MARKERS,
     STANDARD_COLUMNS,
@@ -125,6 +127,107 @@ def _derive_size_band(contact_count: int, has_primary_contact: bool) -> str:
 def _make_member_id(name: str, category: str) -> str:
     raw = f"{category}|{name}".lower().encode("utf-8")
     return hashlib.md5(raw).hexdigest()[:12]
+
+
+def _normalize_header(col: Any) -> str:
+    return _clean(col).lstrip("\ufeff").lower()
+
+
+def _normalize_category(category: str) -> str:
+    category = _clean(category)
+    if not category:
+        return "Unknown"
+
+    upper = category.upper()
+    if upper in SECTION_MARKERS:
+        return upper
+
+    alias = CATEGORY_ALIASES.get(category.lower())
+    if alias:
+        return alias
+
+    for marker in SECTION_MARKERS:
+        if marker in upper or upper.replace("  ", " ") == marker:
+            return marker
+
+    return upper
+
+
+def _build_member_record(
+    *,
+    member_name: str,
+    category: str,
+    membership_type: str = "",
+    website: str = "",
+    renewal: str = "",
+    renewal_month: str = "",
+    primary_contact: str = "",
+    job_title: str = "",
+    email: str = "",
+    phone: str = "",
+    address: str = "",
+    city: str = "",
+    zip_code: str = "",
+    contact_count: int = 0,
+    dba_names: list[str] | None = None,
+    opted_out: bool = False,
+    bounced: bool = False,
+) -> dict[str, Any]:
+    county = _derive_county(city, zip_code)
+    website = _normalize_website(website)
+    parsed_month = _parse_renewal_month(renewal_month) or _parse_renewal_month(renewal)
+    renewal_month = parsed_month or _clean(renewal_month)
+
+    return {
+        "member_id": _make_member_id(member_name, category),
+        "member_name": member_name,
+        "category": category,
+        "industry": INDUSTRY_MAP.get(category, category.title()),
+        "membership_type": membership_type
+        if membership_type in MEMBERSHIP_TYPES
+        else ("Unknown" if not membership_type else membership_type),
+        "website": website,
+        "renewal": _clean(renewal) or renewal_month,
+        "renewal_month": renewal_month,
+        "primary_contact": _clean(primary_contact),
+        "job_title": _clean(job_title),
+        "email": _clean(email),
+        "phone": _clean(phone),
+        "address": _clean(address),
+        "city": _clean(city),
+        "zip": _normalize_zip(zip_code),
+        "county": county,
+        "region": _derive_region(county),
+        "contact_count": contact_count,
+        "dba_names": "; ".join(dba_names) if dba_names else "",
+        "opted_out": opted_out,
+        "bounced": bounced,
+        "has_website": bool(website),
+    }
+
+
+def _finalize_members_df(result: pd.DataFrame) -> pd.DataFrame:
+    if result.empty:
+        return result
+
+    result = result.copy()
+    result["size_band"] = result.apply(
+        lambda r: _derive_size_band(
+            int(r.get("contact_count", 0) or 0),
+            bool(_clean(r.get("primary_contact", ""))),
+        ),
+        axis=1,
+    )
+    result["opted_out"] = result["opted_out"].astype(bool)
+    result["bounced"] = result["bounced"].astype(bool)
+    result["has_website"] = result["has_website"].astype(bool)
+    result["contact_count"] = result["contact_count"].astype(int)
+
+    for col in STANDARD_COLUMNS:
+        if col not in result.columns:
+            result[col] = "" if col != "contact_count" else 0
+
+    return result[STANDARD_COLUMNS]
 
 
 def is_section_header(name: str) -> bool:
@@ -321,35 +424,23 @@ def parse_master_list(df: pd.DataFrame) -> tuple[pd.DataFrame, dict[str, int]]:
             if current is not None:
                 members.append(current)
 
-            member_name = parsed["member_name"]
-            county = _derive_county(parsed["city"], parsed["zip"])
-            website = parsed["website"]
-            current = {
-                "member_id": _make_member_id(member_name, current_category),
-                "member_name": member_name,
-                "category": current_category,
-                "industry": INDUSTRY_MAP.get(current_category, current_category.title()),
-                "membership_type": parsed["membership_type"]
-                if parsed["membership_type"] in MEMBERSHIP_TYPES
-                else ("Unknown" if not parsed["membership_type"] else parsed["membership_type"]),
-                "website": website,
-                "renewal": parsed["renewal"],
-                "renewal_month": _parse_renewal_month(parsed["renewal"]),
-                "primary_contact": parsed["primary_contact"],
-                "job_title": parsed["job_title"],
-                "email": parsed["email"],
-                "phone": parsed["phone"],
-                "address": parsed["address"],
-                "city": parsed["city"],
-                "zip": parsed["zip"],
-                "county": county,
-                "region": _derive_region(county),
-                "contact_count": 0,
-                "dba_names": [],
-                "opted_out": parsed["opted_out"],
-                "bounced": parsed["bounced"],
-                "has_website": bool(website),
-            }
+            current = _build_member_record(
+                member_name=parsed["member_name"],
+                category=current_category,
+                membership_type=parsed["membership_type"],
+                website=parsed["website"],
+                renewal=parsed["renewal"],
+                primary_contact=parsed["primary_contact"],
+                job_title=parsed["job_title"],
+                email=parsed["email"],
+                phone=parsed["phone"],
+                address=parsed["address"],
+                city=parsed["city"],
+                zip_code=parsed["zip"],
+                opted_out=parsed["opted_out"],
+                bounced=parsed["bounced"],
+            )
+            current["dba_names"] = []
             stats["primary_members"] += 1
             continue
 
@@ -365,28 +456,119 @@ def parse_master_list(df: pd.DataFrame) -> tuple[pd.DataFrame, dict[str, int]]:
     result["dba_names"] = result["dba_names"].apply(
         lambda names: "; ".join(names) if isinstance(names, list) else _clean(names)
     )
-    result["size_band"] = result.apply(
-        lambda r: _derive_size_band(
-            int(r["contact_count"]),
-            bool(_clean(r["primary_contact"])),
-        ),
-        axis=1,
-    )
-    result["opted_out"] = result["opted_out"].astype(bool)
-    result["bounced"] = result["bounced"].astype(bool)
-    result["has_website"] = result["has_website"].astype(bool)
-    result["contact_count"] = result["contact_count"].astype(int)
+    return _finalize_members_df(result), stats
 
-    for col in STANDARD_COLUMNS:
-        if col not in result.columns:
-            result[col] = ""
 
-    return result[STANDARD_COLUMNS], stats
+def _rename_new_master_columns(df: pd.DataFrame) -> pd.DataFrame:
+    rename_map: dict[str, str] = {}
+    for col in df.columns:
+        header = _clean(col).lstrip("\ufeff")
+        if header in NEW_MASTER_COLUMNS:
+            rename_map[col] = NEW_MASTER_COLUMNS[header]
+            continue
+        for source, target in NEW_MASTER_COLUMNS.items():
+            if _normalize_header(col) == source.lower():
+                rename_map[col] = target
+                break
+    return df.rename(columns=rename_map)
+
+
+def parse_new_master_list(df: pd.DataFrame) -> tuple[pd.DataFrame, dict[str, int]]:
+    """Parse a flat master-list export with standard column headers."""
+    stats = {
+        "rows_read": len(df),
+        "sections_found": 0,
+        "primary_members": 0,
+        "additional_contacts": 0,
+        "dba_rows": 0,
+        "skipped_rows": 0,
+    }
+
+    df = _rename_new_master_columns(df.copy())
+    required = {"member_name", "category"}
+    if not required.issubset(df.columns):
+        return pd.DataFrame(columns=STANDARD_COLUMNS), stats
+
+    members: list[dict[str, Any]] = []
+    current_category = "Unknown"
+
+    for _, row in df.iterrows():
+        raw_name = _clean(row.get("member_name", ""))
+        if not raw_name:
+            stats["skipped_rows"] += 1
+            continue
+
+        if is_section_header(raw_name):
+            current_category = _normalize_category(raw_name)
+            stats["sections_found"] += 1
+            continue
+
+        row_category = _normalize_category(_clean(row.get("category", "")))
+
+        if is_total_row(raw_name) or is_note_only(raw_name):
+            stats["skipped_rows"] += 1
+            continue
+
+        if is_additional_contact(raw_name):
+            stats["additional_contacts"] += 1
+            continue
+
+        if row_category != "Unknown":
+            current_category = row_category
+        category = current_category
+        member_name, opted_out, bounced = _parse_flags(raw_name)
+        if not member_name:
+            stats["skipped_rows"] += 1
+            continue
+
+        renewal_month = _clean(row.get("renewal_month", ""))
+        members.append(
+            _build_member_record(
+                member_name=member_name,
+                category=category,
+                membership_type=_clean(row.get("membership_type", "")),
+                website=_clean(row.get("website", "")),
+                renewal=renewal_month,
+                renewal_month=renewal_month,
+                primary_contact=_clean(row.get("primary_contact", "")),
+                email=_clean(row.get("email", "")),
+                address=_clean(row.get("address", "")),
+                city=_clean(row.get("city", "")),
+                zip_code=_clean(row.get("zip", "")),
+                opted_out=opted_out,
+                bounced=bounced,
+            )
+        )
+        stats["primary_members"] += 1
+
+    return _finalize_members_df(pd.DataFrame(members)), stats
 
 
 def _is_preprocessed(df: pd.DataFrame) -> bool:
-    required = {"member_name", "category", "industry"}
-    return required.issubset(set(df.columns))
+    cols = {_normalize_header(c) for c in df.columns}
+    if "company name" in cols and "category" in cols:
+        return False
+    required = {"member_name", "category"}
+    return required.issubset(cols)
+
+
+def _is_new_master_format(df: pd.DataFrame) -> bool:
+    cols = {_normalize_header(c) for c in df.columns}
+    return "company name" in cols and "category" in cols
+
+
+def detect_file_format(path: Path) -> str:
+    """Return one of: new_master, preprocessed, legacy_sectioned."""
+    if path.suffix.lower() == ".xlsx":
+        probe = pd.read_excel(path, nrows=3, dtype=str)
+    else:
+        probe = pd.read_csv(path, nrows=3, dtype=str, keep_default_na=False, encoding="utf-8-sig")
+
+    if _is_new_master_format(probe):
+        return "new_master"
+    if _is_preprocessed(probe):
+        return "preprocessed"
+    return "legacy_sectioned"
 
 
 def normalize_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -416,7 +598,11 @@ def normalize_dataframe(df: pd.DataFrame) -> pd.DataFrame:
         df["zip"] = df["zip"].apply(_normalize_zip)
 
     if "renewal" in df.columns and "renewal_month" in df.columns:
-        df["renewal_month"] = df["renewal"].apply(_parse_renewal_month)
+        parsed_from_renewal = df["renewal"].apply(_parse_renewal_month)
+        empty_month = df["renewal_month"].astype(str).str.strip().eq("")
+        df.loc[empty_month, "renewal_month"] = parsed_from_renewal[empty_month]
+        empty_renewal = df["renewal"].astype(str).str.strip().eq("")
+        df.loc[empty_renewal, "renewal"] = df["renewal_month"]
 
     if "county" not in df.columns or df["county"].eq("").all():
         df["county"] = df.apply(lambda r: _derive_county(r.get("city", ""), r.get("zip", "")), axis=1)
@@ -465,9 +651,19 @@ def _read_raw_file(path: Path) -> pd.DataFrame:
 
 def find_member_file() -> Path | None:
     for candidate in MEMBER_FILE_CANDIDATES:
-        if candidate.exists():
-            return candidate
+        if not candidate.exists():
+            continue
+        fmt = detect_file_format(candidate)
+        if candidate.name.lower() in {"members.csv", "members.xlsx"} and fmt == "legacy_sectioned":
+            continue
+        return candidate
     return None
+
+
+def _read_tabular_file(path: Path) -> pd.DataFrame:
+    if path.suffix.lower() == ".xlsx":
+        return pd.read_excel(path, dtype=str)
+    return pd.read_csv(path, dtype=str, keep_default_na=False, encoding="utf-8-sig")
 
 
 def load_members(source: Path | None = None) -> tuple[pd.DataFrame, Path | None, dict[str, int]]:
@@ -476,14 +672,18 @@ def load_members(source: Path | None = None) -> tuple[pd.DataFrame, Path | None,
     if path is None:
         return pd.DataFrame(columns=STANDARD_COLUMNS), None, {"error": 1}
 
+    fmt = detect_file_format(path)
+
+    if fmt == "new_master":
+        df = _read_tabular_file(path)
+        parsed, stats = parse_new_master_list(df)
+        return normalize_dataframe(parsed), path, stats
+
+    if fmt == "preprocessed":
+        df = _read_tabular_file(path)
+        return normalize_dataframe(df), path, {"rows_read": len(df), "primary_members": len(df)}
+
     raw = _read_raw_file(path)
-
-    if path.name.lower() in {"members.csv", "members.xlsx"}:
-        probe = pd.read_csv(path, nrows=1) if path.suffix.lower() == ".csv" else pd.read_excel(path, nrows=1)
-        if _is_preprocessed(probe):
-            df = pd.read_csv(path, dtype=str) if path.suffix.lower() == ".csv" else pd.read_excel(path, dtype=str)
-            return normalize_dataframe(df), path, {"rows_read": len(df), "primary_members": len(df)}
-
     df, stats = parse_master_list(raw)
     return df, path, stats
 
